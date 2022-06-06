@@ -45,7 +45,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 387,Half-Life 2: Episode One,Shooter,M,PC,Electronic Arts,Valve Software,3.92,,,,,2006,,
 403,The Sims: Unleashed,Simulation,T,PC,Electronic Arts,Maxis,3.76,2.03,1.56,,0.17,2002,79.0,8.0
 412,Diablo III: Reaper of Souls,Action,,PC,Blizzard Entertainment,Blizzard Entertainment,3.7,,,,,2014,,
-427,Doom II,Shooter,M,PC,GT Interactive,id Software,3.61,2.05,1.4,,0.16,1994,,
 429,BattleBlock Theater,Platform,,PC,The Behemoth,The Behemoth,3.61,,,,,2014,,
 434,Undertale,Role-Playing,,PC,Toby Fox,Toby Fox,3.58,,,,,2015,,
 455,World of Warcraft: The Burning Crusade,MMO,T,PC,Blizzard Entertainment,Blizzard Entertainment,3.5,,,,,2007,91.0,7.9
@@ -95,7 +94,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 910,The Sims: House Party,Simulation,T,PC,Maxis,Maxis,2.16,1.23,0.83,,0.1,2001,74.0,7.9
 914,How to Survive 2,Action,,PC,Unknown,EKO Software,2.15,,,,,2015,,
 918,Banished,Misc,,PC,Falcom,Unknown,2.15,,,,,2014,,
-922,SimCity 2000,Simulation,E,PC,Maxis,Maxis,2.14,1.2,0.84,,0.1,1993,,
 950,Total War: WARHAMMER,Strategy,,PC,Sega,Creative Assembly,2.09,,,,,2016,86.0,7.3
 952,Sim Theme Park,Strategy,E,PC,Electronic Arts,Bullfrog Productions,2.08,2.04,0.04,,,1999,,8.3
 995,Serious Sam 3: BFE,Shooter,M,PC,Devolver Digital,Croteam,2.03,,,,,2011,72.0,8.2
@@ -220,7 +218,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 2400,Empire Earth,Strategy,T,PC,Sierra Entertainment,Stainless Steel Studios,1.0,,,,,2001,81.0,8.2
 2419,Return to Castle Wolfenstein,Shooter,,PC,Activision,Gray Matter Studios,1.0,,,,,2001,,
 2422,StarCraft II: Legacy of the Void,Strategy,T,PC,Blizzard Entertainment,Blizzard Entertainment,1.0,,,,,2015,88.0,8.3
-2428,Gauntlet,Action,,PC,Mindscape,Mindscape Inc.,1.0,,,,,1988,,
 2430,Hollow Knight,Action-Adventure,RP,PC,Team Cherry,Team Cherry,1.0,,,,,2017,,
 2449,Lego Marvel Super Heroes,Action,E10,PC,Warner Bros. Interactive Entertainment,Traveller's Tales,0.99,,,,,2013,,
 2457,DmC Devil May Cry,Action,M,PC,Capcom,QLOC,0.99,,,,,2013,,
@@ -272,7 +269,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 2946,Football Manager 2015,Simulation,,PC,Sega,Sports Interactive,0.81,,,,,2014,80.0,6.0
 2962,Poly Bridge,Simulation,,PC,Unknown,Dry Cactus Limited,0.81,,,,,1998,,
 2967,BeamNG.drive,Simulation,,PC,Unknown,BeamNG,0.8,,,,,2000,,
-2972,The 7th Guest,Adventure,,PC,Virgin Interactive,Trilobyte,0.8,0.03,0.77,,,1993,,
 2992,Deadlight,Action-Adventure,,PC,Microsoft Studios,Tequila Works,0.8,,,,,2012,,
 3011,Football Manager 2014,Sports,,PC,Sega,Sports Interactive,0.79,,,,,2013,85.0,5.5
 3018,Nidhogg,Action,,PC,Messhof,Messhof,0.79,,,,,2014,,
@@ -286,7 +282,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 3112,VVVVVV,Platform,,PC,Terry Cavanagh,Terry Cavanagh,0.76,,,,,2010,,
 3119,Legend of Grimrock,Misc,,PC,Almost Human,Unknown,0.76,,,,,2012,,
 3137,Assassin's Creed: Revelations,Action,M,PC,Ubisoft,Ubisoft Montreal,0.76,0.16,0.49,,0.11,2011,80.0,7.4
-3146,They Are Billions,Strategy,,PC,Unknown,Numantian Games,0.76,,,,,1993,,
 3153,Defy Gravity Extended,Action,,PC,Unknown,Fish Factory Games,0.75,,,,,2011,,
 3159,LEGO Worlds,Misc,,PC,Warner Bros. Interactive Entertainment,Traveller's Tales,0.75,,,,,2015,,
 3161,Universe Sandbox,Simulation,,PC,Unknown,Dan Dixon,0.75,,,,,2011,,
@@ -372,7 +367,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 3976,Octodad: Dadliest Catch,Misc,,PC,Young Horses,Unknown,0.58,,,,,2014,,
 3980,Deus Ex: Human Revolution,Shooter,M,PC,Square Enix,Eidos Montreal,0.58,0.25,0.26,,0.08,2011,90.0,8.5
 3997,I Am Bread,Simulation,E10,PC,Bossa Studios,Bossa Studios,0.58,,,,,2015,,
-4003,NEKOPARA Vol. 1,Visual Novel,,PC,Unknown,Neko Works,0.58,,,,,1992,,
 4008,ABZU,Adventure,E,PC,505 Games,Giant Squid Studios,0.58,,,,,2016,,
 4010,Sniper Elite: Nazi Zombie Army,Shooter,,PC,Unknown,Rebellion Games,0.58,,,,,2000,,
 4037,StarCraft II: Legacy of the Void,Strategy,T,PC,Blizzard Entertainment,Blizzard Entertainment,0.57,0.23,0.3,,0.05,2015,88.0,8.3
@@ -623,7 +617,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 6689,Magic 2015 - Duels of the Planeswalker,Strategy,,PC,Wizards of the Coast,Stainless Games,0.3,,,,,2014,,
 6711,Tom Clancy's Rainbow Six: Siege,Shooter,M,PC,Ubisoft,Ubisoft Montreal,0.3,0.18,0.09,,0.03,2015,79.0,6.9
 6728,Stronghold 2,Strategy,T,PC,2K Games,FireFly Studios,0.3,,,,,2005,,
-6732,Warcraft: Orcs & Humans,Strategy,,PC,Blizzard Entertainment,Blizzard Entertainment,0.3,,,,,1994,,
 6734,Kingdom Rush,Shooter,,PC,Ironhide Game Studio,Ironhide Game Studio,0.3,,,,,2011,,
 6735,The Jackbox Party Pack 2,Party,,PC,Jackbox Games,Jackbox Games,0.3,,,,,2015,,
 6746,Devil May Cry 4,Action,M,PC,Capcom,Capcom,0.3,,,,,2008,78.0,8.5
@@ -833,7 +826,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 8390,Betrayer,Action-Adventure,,PC,Unknown,Blackpowder Games,0.22,,,,,2008,,
 8393,Night in the Woods,Adventure,T,PC,Unknown,Unknown,0.22,,,,,2017,,
 8401,Screencheat,Shooter,,PC,Unknown,Samurai Punk,0.22,,,,,2013,,
-8420,Destiny Warriors RPG,Role-Playing,,PC,Unknown,ninjalex,0.22,,,,,1994,,
 8422,The Lords of the Earth Flame,Visual Novel,,PC,Unknown,Rhino Games,0.22,,,,,2012,,
 8424,Quantum Conundrum,Misc,,PC,Square Enix,Unknown,0.22,,,,,2012,,
 8429,They Bleed Pixels,Platform,,PC,Unknown,Spooky Squid Games Inc.,0.22,,,,,2007,,
@@ -982,7 +974,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 9401,Hyposphere,Platform,,PC,Unknown,Atum Software,0.18,,,,,2012,,
 9403,Danganronpa 2: Goodbye Despair,Adventure,,PC,Spike Chunsoft,Spike Chunsoft,0.18,,,,,2016,,
 9408,Wanderlust: Rebirth,Role-Playing,,PC,Unknown,Yeti Trunk,0.18,,,,,2005,,
-9414,Yu-Gi-Oh! Legacy of the Duelist,Strategy,,PC,Unknown,Other Ocean Interactive,0.18,,,,,1992,,
 9415,Brink,Shooter,T,PC,Bethesda Softworks,Splash Damage,0.18,0.06,0.09,,0.03,2011,70.0,6.0
 9428,Spakoyno: Back to the USSR 2.0,Adventure,,PC,Unknown,Separate Game Development,0.18,,,,,2018,,
 9439,12 Labours of Hercules II: The Cretan Bull,Strategy,,PC,Unknown,Jetdogs Studios,0.18,,,,,2005,,
@@ -1042,7 +1033,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 9747,Tribal Pass,Action,,PC,Unknown,Tribe Tea,0.17,,,,,2017,,
 9766,Last Tale,Action,,PC,Unknown,YarGri,0.17,,,,,2008,,
 9768,Age of Empires III: Complete Collection,Strategy,T,PC,Microsoft Game Studios,Ensemble Studios,0.17,0.01,0.13,,0.03,2009,,8.5
-9777,The Last Hope: Trump vs Mafia - North Korea,Shooter,,PC,Unknown,Atomic Fabrik,0.17,,,,,1993,,
 9783,Daily Chthonicle: Editor's Edition,Adventure,,PC,Unknown,Sinister Systems,0.17,,,,,2011,,
 9785,Plantera,Simulation,,PC,Unknown,VaragtP,0.17,,,,,2015,,
 9786,Dig or Die,Strategy,,PC,Unknown,Gaddy Games,0.17,,,,,2015,,
@@ -1081,7 +1071,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 9934,Witch It,Action-Adventure,,PC,Unknown,Barrel Roll Games,0.16,,,,,2007,,
 9949,Bunch of Heroes,Action,,PC,Unknown,NGD Studios,0.16,,,,,2011,,
 9960,Only One Hope,Action-Adventure,,PC,Unknown,Unknown,0.16,,,,,2003,,
-9968,Sacred Citadel,Action,,PC,Unknown,Southend Interactive,0.16,,,,,1993,,
 9975,Steins;Gate,Visual Novel,M,PC,Nitro+,Nitro+,0.16,,,,,2016,,
 9994,Final Fantasy III,Misc,,PC,Square Enix,Unknown,0.16,,,,,2014,,
 10008,Apartment 666,Action-Adventure,,PC,Unknown,I Need Play,0.16,,,,,2008,,
@@ -1472,7 +1461,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 14638,Zoo Tycoon: Complete Collection,Strategy,E,PC,Microsoft Game Studios,Blue Fang Games,0.06,0.03,0.02,,0.01,2003,,8.0
 14641,Men of War: Assault Squad,Strategy,T,PC,1C Company,Digitalmindsoft,0.06,0.01,0.04,,0.01,2011,77.0,8.2
 14654,Sacred 2: Fallen Angel,Role-Playing,M,PC,CDV Software Entertainment,Ascaron Entertainment,0.06,,0.05,,0.01,2008,71.0,6.9
-14660,Syndicate,Strategy,,PC,Electronic Arts,Bullfrog Productions,0.06,0.0,0.05,,0.01,1993,,
 14706,Need for Speed: Shift,Racing,E,PC,Electronic Arts,Slightly Mad Studios,0.06,,0.05,,0.01,2009,83.0,5.8
 14726,Zoo Tycoon 2,Strategy,E,PC,Microsoft Game Studios,Blue Fang Games,0.06,,0.05,,0.01,2004,72.0,8.1
 14742,The Saboteur,Action,M,PC,Electronic Arts,Pandemic Studios,0.06,,0.05,,0.01,2009,76.0,8.0
@@ -1531,7 +1519,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 15550,Company of Heroes,Strategy,M,PC,THQ,Relic,0.04,,0.04,,0.0,2006,93.0,8.8
 15556,Supreme Commander,Strategy,E10,PC,THQ,Gas Powered Games,0.04,,0.04,,0.01,2007,86.0,8.3
 15561,Silent Hunter: Wolves of the Pacific,Simulation,T,PC,Ubisoft,Ubisoft Romania,0.04,,0.04,,0.0,2007,79.0,6.9
-15574,Doom,Shooter,M,PC,id Software,id Software,0.04,0.04,0.0,,0.0,1993,85.0,8.2
 15583,Microsoft Train Simulator,Simulation,,PC,Microsoft,Kuju Entertainment,0.04,,0.04,,0.0,2001,84.0,8.4
 15607,For Honor,Action,M,PC,Ubisoft,Ubisoft Montreal,0.04,0.02,0.02,,0.0,2017,,
 15608,Jewel Master: Cradle Of Rome 2,Puzzle,,PC,Rising Star,Rising Star Games,0.04,,0.04,,0.01,2011,,
@@ -1655,7 +1642,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 16690,Shaun White Skateboarding,Sports,T,PC,Ubisoft,Ubisoft Montreal,0.03,,0.03,,0.0,2010,,7.3
 16694,East India Company Collection,Misc,T,PC,Paradox Interactive,Nitro Games,0.03,,0.03,,0.0,2010,,
 16695,Fallout: New Vegas Ultimate Edition,Role-Playing,,PC,Bethesda Softworks,Obsidian Entertainment,0.03,,0.03,,0.0,2012,,
-16696,Alter Ego,Simulation,,PC,Activision,Activision,0.03,,0.03,,0.0,1986,59.0,5.8
 16701,Super Meat Boy: Ultra Edition!,Platform,T,PC,Unknown,Team Meat,0.03,,0.02,,0.01,2011,,
 16712,Guitar Hero: World Tour,Misc,T,PC,Activision,Neversoft Entertainment,0.03,,0.03,,0.0,2009,,7.8
 16738,Combat Mission: Shock Force,Strategy,,PC,Paradox Interactive,Big Time Software,0.03,,0.03,,0.0,2007,62.0,3.3
@@ -1683,7 +1669,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 16915,Commander: Conquest of the Americas,Strategy,T,PC,Paradox Interactive,Nitro Games,0.03,,0.02,,0.0,2010,68.0,5.2
 16929,Grand Theft Auto: The Trilogy,Adventure,M,PC,Rockstar Games,Rockstar North,0.03,,0.02,,0.0,2009,,
 16937,Monsters vs. Aliens,Platform,E10,PC,Activision,Beenox,0.03,0.01,0.01,,0.0,2009,63.0,6.2
-16940,Mortal Kombat,Fighting,,PC,Acclaim Entertainment,Midway,0.03,0.02,,,0.0,1994,,
 16949,Ride,Racing,E,PC,Milestone S.r.l.,Milestone S.r.l.,0.03,,0.03,,0.0,2015,68.0,4.8
 16988,Syberia,Adventure,T,PC,The Adventure Company,Microids,0.03,,0.02,,0.0,2002,82.0,8.5
 17004,Check vs. Mate,Misc,T,PC,Unknown,TopWare Interactive,0.03,,0.02,,0.0,2011,,
@@ -1695,7 +1680,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 17061,Totally Spies! Totally Party,Misc,E,PC,Ubisoft,Mad Monkey Studio,0.03,,0.02,,0.0,2008,,
 17073,MySims,Simulation,E,PC,Electronic Arts,EA Redwood Shores,0.03,,0.02,,0.0,2008,70.0,6.4
 17087,Age of Conan: Rise of the Godslayer,Role-Playing,M,PC,Funcom,Funcom,0.03,,0.02,,0.0,2010,83.0,8.4
-17093,SimCity,Simulation,,PC,Maxis,Maxis,0.03,,0.02,,0.0,1989,64.0,2.2
 17106,Max Payne 2: The Fall of Max Payne,Shooter,M,PC,Rockstar Games,Remedy Entertainment,0.03,,0.02,,0.0,2003,86.0,9.0
 17111,Battlefield Vietnam,Shooter,T,PC,Electronic Arts,Digital Illusions,0.03,,0.02,,0.0,2004,84.0,7.5
 17122,Schlag den Raab,Misc,,PC,Namco Bandai,Namco Bandai Games,0.03,,0.02,,0.0,2010,,
@@ -1724,7 +1708,6 @@ rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,p
 17303,Captain Morgane and the Golden Turtle,Adventure,,PC,Reef Entertainment,WizarBox,0.02,,0.02,,0.0,2012,54.0,6.2
 17312,Magicka Collection,Adventure,T,PC,Paradox Interactive,Paradox Interactive,0.02,,0.02,,0.0,2011,,7.5
 17325,F1 2017,Racing,E,PC,Deep Silver,Codemasters,0.02,,0.02,,0.0,2017,,
-17352,Empire Deluxe,Strategy,,PC,New World Computing,White Wolf Productions,0.02,0.02,,,0.0,1993,,
 17360,Jurassic Park: Operation Genesis,Simulation,T,PC,VU Games,Blue Tongue,0.02,,0.02,,0.0,2003,72.0,8.7
 17367,IL-2 Sturmovik: Forgotten Battles,Simulation,T,PC,Ubisoft,1C: Maddox Games,0.02,,0.02,,0.0,2003,86.0,8.6
 17370,The Lord of the Rings: Conquest,Action,T,PC,Electronic Arts,Pandemic Studios,0.02,0.0,0.02,,0.0,2009,57.0,6.7
