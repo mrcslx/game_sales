@@ -1,0 +1,923 @@
+rank,name,genre,esrb_rating,platform,publisher,developer,global_sales,na_sales,pal_sales,jp_sales,other_sales,year,critic_score,user_score
+21,Grand Theft Auto V,Action,M,PlayStation 4,Rockstar Games,Rockstar North,19.39,6.06,9.71,0.6,3.02,2014,97.0,8.3
+35,Call of Duty: Black Ops 3,Shooter,M,PlayStation 4,Activision,Treyarch,15.09,6.18,6.05,0.41,2.44,2015,,
+46,Red Dead Redemption 2,Action-Adventure,M,PlayStation 4,Rockstar Games,Rockstar Games,13.94,5.26,6.21,0.21,2.26,2018,,
+51,Call of Duty: WWII,Shooter,M,PlayStation 4,Activision,Sledgehammer Games,13.4,4.67,6.21,0.4,2.12,2017,,
+69,FIFA 18,Sports,E,PlayStation 4,EA Sports,EA Vancouver,11.8,1.27,8.64,0.15,1.73,2017,,
+77,FIFA 17,Sports,E,PlayStation 4,Electronic Arts,EA Canada,10.94,1.26,7.95,0.12,1.61,2016,85.0,5.0
+85,Horizon: Zero Dawn,Action,T,PlayStation 4,Sony Interactive Entertainment,Guerrilla Games,10.0,,,,,2017,,
+98,Call of Duty: Black Ops IIII,Shooter,M,PlayStation 4,Activision,Treyarch,9.32,4.05,3.28,0.5,1.49,2018,,
+101,FIFA 19,Sports,E,PlayStation 4,Electronic Arts,EA Sports,9.15,0.84,6.87,0.1,1.34,2018,,
+103,Marvel's Spider-Man,Action-Adventure,T,PlayStation 4,Sony Interactive Entertainment,Insomniac Games,9.0,,,,,2018,,
+109,Uncharted 4: A Thief's End,Action,T,PlayStation 4,Sony Interactive Entertainment,Naughty Dog,8.7,,,,,2016,93.0,7.9
+113,Call of Duty: Infinite Warfare,Shooter,M,PlayStation 4,Activision,Infinity Ward,8.48,3.11,3.83,0.19,1.36,2016,77.0,3.4
+114,Fallout 4,Role-Playing,M,PlayStation 4,Bethesda Softworks,Bethesda Game Studios,8.48,2.91,3.97,0.27,1.34,2015,87.0,6.5
+119,FIFA 16,Sports,E,PlayStation 4,EA Sports,EA Canada,8.22,1.15,5.77,0.07,1.23,2015,82.0,4.3
+121,Star Wars Battlefront (2015),Shooter,T,PlayStation 4,Electronic Arts,EA DICE,8.03,3.31,3.19,0.23,1.3,2015,,
+130,Call of Duty: Advanced Warfare,Shooter,M,PlayStation 4,Activision,Sledgehammer Games,7.53,2.84,3.34,0.14,1.22,2014,83.0,5.7
+138,Battlefield 1,Shooter,M,PlayStation 4,Electronic Arts,EA DICE,7.26,2.2,3.65,0.29,1.12,2016,88.0,8.4
+167,Minecraft,Misc,E10,PlayStation 4,Sony Computer Entertainment,Mojang,6.33,1.89,3.13,0.35,0.96,2014,,
+168,FIFA 15,Sports,E,PlayStation 4,EA Sports,EA Canada,6.32,0.83,4.49,0.05,0.94,2014,82.0,5.7
+174,God of War (2018),Action,M,PlayStation 4,Sony Interactive Entertainment,SIE Santa Monica Studio,6.15,2.83,2.17,0.13,1.02,2018,,
+191,Destiny,Shooter,T,PlayStation 4,Activision,Bungie,5.76,2.53,2.13,0.16,0.94,2014,76.0,6.1
+194,Uncharted: The Nathan Drake Collection,Action,,PlayStation 4,Sony Computer Entertainment,Bluepoint Games,5.7,2.55,2.11,0.1,0.94,2015,86.0,8.1
+216,The Witcher 3: Wild Hunt,Role-Playing,M,PlayStation 4,Warner Bros. Interactive Entertainment,CD Projekt Red Studio,5.39,1.48,2.82,0.28,0.81,2015,92.0,9.2
+250,Final Fantasy XV,Role-Playing,T,PlayStation 4,Square Enix,Square Enix,5.07,1.81,1.53,1.05,0.68,2016,,
+274,Crash Bandicoot N. Sane Trilogy,Platform,E10,PlayStation 4,Activision,Vicarious Visions,4.83,1.09,2.92,0.07,0.74,2017,,
+285,Monster Hunter: World,Action,T,PlayStation 4,Capcom,Capcom,4.67,1.03,1.06,2.17,0.42,2018,,
+298,Overwatch,Shooter,T,PlayStation 4,Blizzard Entertainment,Blizzard Entertainment,4.54,1.84,1.8,0.17,0.73,2016,90.0,6.1
+301,Star Wars Battlefront II (2017),Shooter,T,PlayStation 4,Electronic Arts,EA DICE,4.53,1.7,1.99,0.12,0.73,2017,,
+319,Tom Clancy's The Division,Shooter,M,PlayStation 4,Ubisoft,Massive Entertainment,4.37,1.49,2.04,0.16,0.69,2016,80.0,7.0
+322,Tom Clancy's Rainbow Six: Siege,Shooter,,PlayStation 4,Ubisoft,Ubisoft Montreal,4.36,1.29,2.06,0.36,0.64,2015,73.0,7.3
+324,Watch Dogs,Action-Adventure,M,PlayStation 4,Ubisoft,Ubisoft Montreal,4.32,1.4,2.13,0.11,0.68,2014,80.0,6.3
+344,Call of Duty: Ghosts,Shooter,M,PlayStation 4,Activision,Infinity Ward,4.17,1.79,1.64,0.05,0.69,2013,78.0,3.7
+352,Assassin's Creed: Unity,Action,M,PlayStation 4,Ubisoft,Ubisoft Montreal,4.14,1.25,2.16,0.09,0.65,2014,70.0,4.9
+353,Destiny 2,Shooter,T,PlayStation 4,Activision,Bungie,4.14,1.92,1.44,0.1,0.69,2017,,
+356,Batman: Arkham Knight,Action,M,PlayStation 4,Warner Bros. Interactive,Rocksteady Studios,4.11,1.65,1.68,0.11,0.66,2015,87.0,7.6
+362,Assassin's Creed Origins,Action,M,PlayStation 4,Ubisoft,Ubisoft Montreal,4.06,1.22,2.11,0.11,0.63,2017,,
+363,Far Cry 4,Shooter,M,PlayStation 4,Ubisoft,Ubisoft Montreal,4.06,1.18,2.14,0.11,0.63,2014,85.0,7.7
+381,NBA 2K16,Sports,E10,PlayStation 4,2K Sports,Visual Concepts,3.98,2.56,0.66,0.05,0.71,2015,87.0,6.7
+383,Far Cry 5,Action,M,PlayStation 4,Ubisoft,Ubisoft,3.95,1.44,1.73,0.15,0.62,2018,,
+384,Battlefield 4,Shooter,M,PlayStation 4,Electronic Arts,EA DICE,3.94,1.4,1.74,0.19,0.62,2013,85.0,6.9
+399,Resident Evil VII: Biohazard,Action,M,PlayStation 4,Capcom,Capcom,3.83,,,,,2017,,
+401,Gran Turismo Sport,Racing,E,PlayStation 4,Sony Interactive Entertainment,Polyphony Digital,3.77,0.63,2.35,0.24,0.54,2017,,
+430,Assassin's Creed Syndicate,Action,M,PlayStation 4,Ubisoft,Ubisoft Quebec,3.6,0.9,2.06,0.08,0.55,2015,76.0,6.8
+447,NBA 2K17,Sports,E,PlayStation 4,2K Sports,Visual Concepts,3.52,2.28,0.59,0.03,0.63,2016,88.0,6.7
+458,Mortal Kombat X,Fighting,M,PlayStation 4,Warner Bros. Interactive Entertainment,NetherRealm Studios,3.49,1.94,0.94,,0.61,2015,83.0,7.7
+468,FIFA 14,Sports,E,PlayStation 4,EA Sports,EA Canada,3.43,0.62,2.18,0.12,0.51,2013,87.0,6.3
+479,The Elder Scrolls V: Skyrim Special Edition,Role-Playing,M,PlayStation 4,Bethesda Softworks,Bethesda Softworks,3.36,1.24,1.5,0.08,0.54,2016,,
+480,Watch Dogs 2,Action,,PlayStation 4,Ubisoft,Ubisoft,3.36,0.98,1.74,0.12,0.52,2016,83.0,7.8
+485,NBA 2K18,Sports,E10,PlayStation 4,2K Sports,Visual Concepts,3.34,2.13,0.57,0.04,0.59,2017,,
+494,Madden NFL 16,Sports,E,PlayStation 4,EA Sports,EA Tiburon,3.3,2.39,0.31,,0.61,2015,83.0,5.9
+501,Madden NFL 17,Sports,E,PlayStation 4,EA Sports,EA Tiburon,3.28,2.3,0.37,,0.6,2016,82.0,4.9
+516,Middle-Earth: Shadow of Mordor,Action,M,PlayStation 4,Warner Bros. Interactive Entertainment,Monolith Productions,3.19,1.03,1.6,0.05,0.51,2014,84.0,8.1
+517,Assassin's Creed IV: Black Flag,Action-Adventure,M,PlayStation 4,Ubisoft,Ubisoft Montreal,3.19,1.07,1.55,0.06,0.51,2013,83.0,7.8
+520,Assassin's Creed Odyssey,Action-Adventure,M,PlayStation 4,Ubisoft,Ubisoft Quebec,3.18,1.18,1.4,0.09,0.51,2018,,
+534,Tom Clancy's Ghost Recon Wildlands,Shooter,M,PlayStation 4,Ubisoft,Ubisoft Paris,3.12,1.07,1.35,0.22,0.47,2017,,
+553,Metal Gear Solid V: The Phantom Pain,Action,M,PlayStation 4,Konami Digital Entertainment,Kojima Productions,3.04,0.97,1.15,0.5,0.42,2015,93.0,8.2
+592,Doom (2016),Shooter,,PlayStation 4,Bethesda Softworks,id Software,2.92,0.93,1.48,0.04,0.46,2016,,
+605,Mafia III,Action-Adventure,M,PlayStation 4,2K Games,Hangar 13,2.87,0.72,1.67,0.04,0.44,2016,68.0,5.1
+627,Diablo III: Ultimate Evil Edition,Role-Playing,M,PlayStation 4,Blizzard Entertainment,Blizzard Entertainment,2.82,0.83,1.48,0.08,0.44,2014,,
+656,Far Cry: Primal,Action-Adventure,M,PlayStation 4,Ubisoft,Ubisoft Montreal,2.73,0.63,1.61,0.07,0.41,2016,76.0,6.3
+659,Need for Speed (2015),Racing,T,PlayStation 4,Electronic Arts,Ghost Games,2.72,0.59,1.66,0.06,0.41,2015,,
+690,NBA 2K19,Sports,E,PlayStation 4,2K Sports,Visual Concepts,2.63,1.69,0.44,0.03,0.47,2018,,
+692,Madden NFL 18,Sports,E,PlayStation 4,EA Sports,EA Tiburon,2.62,1.73,0.42,,0.47,2017,,
+741,NBA 2K15,Sports,E,PlayStation 4,2K Sports,Visual Concepts,2.49,1.49,0.55,0.01,0.44,2014,83.0,7.0
+757,Dying Light,Action,M,PlayStation 4,Warner Bros. Interactive,Techland,2.45,1.18,0.74,0.13,0.4,2015,74.0,7.9
+797,Ratchet & Clank (2016),Platform,E10,PlayStation 4,Sony Interactive Entertainment,Insomniac Games,2.38,0.97,0.97,0.06,0.39,2016,,
+804,Uncharted: The Lost Legacy,Action,,PlayStation 4,Sony Interactive Entertainment,Naughty Dog,2.37,0.58,1.38,0.04,0.36,2017,,
+817,Dragon Age: Inquisition,Role-Playing,M,PlayStation 4,Electronic Arts,BioWare Edmonton,2.34,1.07,0.8,0.08,0.38,2014,89.0,7.4
+855,No Man's Sky,Action-Adventure,T,PlayStation 4,Hello Games,Hello Games,2.26,0.89,0.97,0.04,0.37,2016,71.0,4.5
+860,Madden NFL 15,Sports,E,PlayStation 4,EA Sports,EA Tiburon,2.25,1.58,0.25,,0.41,2014,81.0,6.1
+869,Battlefield V,Shooter,M,PlayStation 4,Electronic Arts,EA DICE,2.22,0.8,0.93,0.16,0.34,2018,,
+876,Madden NFL 19,Sports,,PlayStation 4,EA Sports,EA Tiburon,2.21,1.63,0.18,,0.41,2018,,
+897,Need for Speed: Payback,Racing,T,PlayStation 4,Electronic Arts,Ghost Games,2.18,0.62,1.18,0.04,0.34,2017,,
+900,Destiny: The Taken King,Shooter,T,PlayStation 4,Activision,Bungie,2.18,0.97,0.8,0.05,0.36,2015,86.0,6.0
+901,Spyro Reignited Trilogy,Platform,,PlayStation 4,Activision,Toys for Bob,2.17,0.75,1.07,,0.35,2018,,
+907,Need for Speed Rivals,Racing,E10,PlayStation 4,Electronic Arts,Ghost Games,2.17,0.75,1.04,0.03,0.35,2013,80.0,6.2
+908,PlayStation VR Worlds,Misc,M,PlayStation 4,Sony Interactive Entertainment,SIE London Studio,2.16,0.36,1.4,0.09,0.32,2016,59.0,7.1
+913,Battlefield: Hardline,Shooter,M,PlayStation 4,Electronic Arts,EA DICE,2.15,0.72,0.97,0.14,0.33,2015,73.0,5.0
+939,Killzone: Shadow Fall,Shooter,M,PlayStation 4,Sony Computer Entertainment,Guerrilla Games,2.1,,,,,2013,73.0,6.8
+946,Dark Souls III,Role-Playing,M,PlayStation 4,Namco Bandai Games,From Software,2.09,,,,,2016,89.0,8.8
+963,Rise of the Tomb Raider,Adventure,M,PlayStation 4,Square Enix,Crystal Dynamics,2.07,0.61,1.08,0.05,0.32,2016,,
+966,LittleBigPlanet 3,Platform,E,PlayStation 4,Sony Computer Entertainment,Sumo Digital,2.06,0.78,0.93,0.01,0.34,2014,79.0,7.1
+976,The Elder Scrolls Online: Tamriel Unlimited,MMO,M,PlayStation 4,Bethesda Softworks,ZeniMax Online Studios,2.05,0.74,0.98,,0.33,2015,,
+981,Middle-Earth: Shadow of War,Action,M,PlayStation 4,Warner Bros. Interactive Entertainment,Monolith Productions,2.04,0.82,0.84,0.06,0.33,2017,,
+990,Dragon Quest XI: Echoes of an Elusive Age,Role-Playing,T,PlayStation 4,Square Enix,Square Enix,2.04,0.29,0.22,1.43,0.1,2018,,
+1001,Rocket League,Sports,E,PlayStation 4,505 Games,Psyonix Studios,2.02,0.37,1.34,,0.31,2016,85.0,8.7
+1005,Dragon Ball: Xenoverse,Fighting,T,PlayStation 4,Namco Bandai Games,Dimps Corporation,2.01,,,,,2015,,
+1009,Bloodborne,Role-Playing,M,PlayStation 4,Sony Computer Entertainment,From Software,2.0,,,,,2015,92.0,8.6
+1010,Detroit: Become Human,Adventure,M,PlayStation 4,Sony Interactive Entertainment,Quantic Dream,2.0,,,,,2018,,
+1015,Driveclub,Racing,E,PlayStation 4,Sony Computer Entertainment,Evolution Studios,2.0,,,,,2014,,
+1026,Just Cause 3,Action-Adventure,M,PlayStation 4,Square Enix,Avalanche Studios,1.98,0.53,1.07,0.09,0.3,2015,73.0,6.5
+1036,Dishonored 2,Action,M,PlayStation 4,Bethesda Softworks,Arkane Studios,1.97,0.62,1.02,0.01,0.31,2016,88.0,7.7
+1073,Lego Marvel Super Heroes,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.91,0.59,1.0,0.01,0.3,2013,,
+1082,Dragon Ball: Xenoverse 2,Action,T,PlayStation 4,Namco Bandai Games,Dimps Corporation,1.9,,,,,2016,73.0,7.8
+1087,Until Dawn,Adventure,M,PlayStation 4,Sony Computer Entertainment,Supermassive Games Ltd.,1.9,0.62,0.92,0.06,0.3,2015,79.0,8.2
+1113,The Evil Within,Action,M,PlayStation 4,Bethesda Softworks,Tango Gameworks,1.86,0.56,0.9,0.11,0.28,2014,75.0,7.3
+1163,The Crew,Racing,T,PlayStation 4,Ubisoft,Ubisoft Reflections,1.79,0.44,1.04,0.03,0.27,2014,61.0,5.4
+1197,For Honor,Action,M,PlayStation 4,Ubisoft,Ubisoft Montreal,1.75,0.73,0.66,0.07,0.28,2017,,
+1207,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,T,PlayStation 4,Namco Bandai Games,CyberConnect2,1.74,,,,,2016,79.0,8.2
+1212,Shadow of the Tomb Raider,Action-Adventure,M,PlayStation 4,Square Enix,Eidos Montreal,1.74,0.59,0.82,0.06,0.27,2018,,
+1224,Titanfall 2,Shooter,M,PlayStation 4,Electronic Arts,Respawn Entertainment,1.72,0.75,0.62,0.06,0.28,2016,89.0,8.4
+1228,Injustice 2,Fighting,T,PlayStation 4,Warner Bros. Interactive Entertainment,NetherRealm Studios,1.72,0.88,0.54,,0.29,2017,,
+1279,Tekken 7,Fighting,T,PlayStation 4,Namco Bandai Games,Namco Bandai Games,1.68,,,,,2017,,
+1315,Persona 5,Role-Playing,M,PlayStation 4,Atlus,Atlus,1.64,0.62,0.34,0.48,0.2,2017,,
+1335,The Order: 1886,Shooter,M,PlayStation 4,Sony Computer Entertainment,Ready at Dawn,1.62,0.44,0.86,0.07,0.25,2015,63.0,6.6
+1346,Wolfenstein: The New Order,Shooter,M,PlayStation 4,Bethesda Softworks,MachineGames,1.61,0.48,0.84,0.03,0.25,2014,79.0,8.1
+1417,NBA 2K14,Sports,E,PlayStation 4,2K Sports,Visual Concepts,1.54,0.91,0.35,0.01,0.27,2013,85.0,6.5
+1456,Tomb Raider: Definitive Edition,Action-Adventure,M,PlayStation 4,Square Enix,Crystal Dynamics,1.51,0.47,0.74,0.06,0.23,2014,,
+1473,Rayman Legends,Platform,E10,PlayStation 4,Ubisoft,Ubisoft Montpellier,1.5,0.22,1.05,,0.23,2014,90.0,8.5
+1480,NieR: Automata,Role-Playing,M,PlayStation 4,Square Enix,PlatinumGames,1.5,,,,,2017,,
+1492,Mass Effect: Andromeda,Role-Playing,M,PlayStation 4,Electronic Arts,BioWare Corp.,1.49,0.58,0.67,,0.25,2017,,
+1544,Dragon Ball FighterZ,Fighting,T,PlayStation 4,Namco Bandai Games,Arc System Works,1.46,0.61,0.51,0.12,0.23,2018,,
+1583,South Park: The Fractured But Whole,Role-Playing,M,PlayStation 4,Ubisoft,Ubisoft San Francisco,1.43,0.62,0.57,,0.24,2017,,
+1631,The Sims 4,Simulation,T,PlayStation 4,Electronic Arts,Maxis,1.39,0.44,0.72,0.01,0.22,2017,,
+1632,Street Fighter V,Fighting,T,PlayStation 4,Capcom,Capcom,1.39,0.64,0.42,0.12,0.22,2016,77.0,3.4
+1676,Wolfenstein II: The New Colossus,Shooter,M,PlayStation 4,Bethesda Softworks,MachineGames,1.36,0.55,0.58,0.01,0.22,2017,,
+1718,WWE 2K18,Sports,,PlayStation 4,2K Sports,Yuke's,1.33,0.45,0.67,,0.22,2017,,
+1736,Fallout 76,Role-Playing,M,PlayStation 4,Bethesda Softworks,Bethesda Game Studios,1.32,0.52,0.49,0.1,0.2,2018,,
+1753,Lego Star Wars: The Force Awakens,Action-Adventure,E10,PlayStation 4,Warner Bros. Interactive Entertainment,TT Fusion,1.31,0.3,0.78,0.02,0.2,2016,78.0,7.5
+1761,EA Sports UFC 2,Sports,T,PlayStation 4,EA Sports,EA Canada,1.31,0.44,0.65,,0.21,2016,79.0,6.2
+1786,The Last Guardian,Action-Adventure,T,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,1.29,0.4,0.58,0.13,0.19,2016,,
+1792,WWE 2K16,Sports,T,PlayStation 4,Take-Two Interactive,Yuke's,1.29,0.43,0.65,,0.21,2015,73.0,7.4
+1799,Borderlands: The Handsome Collection,Shooter,,PlayStation 4,2K Games,Gearbox Software,1.28,0.69,0.34,0.03,0.22,2015,82.0,7.8
+1801,Project CARS,Racing,E,PlayStation 4,Bandai Namco Games,Slightly Mad Studios,1.28,0.29,0.76,0.04,0.19,2015,83.0,6.6
+1902,WWE 2K17,Sports,T,PlayStation 4,2K Games,Yuke's,1.22,0.32,0.7,,0.19,2016,69.0,6.9
+1914,Guitar Hero Live,Music,T,PlayStation 4,Activision,FreeStyleGames,1.21,0.52,0.49,,0.2,2015,80.0,6.2
+1934,Metal Gear Solid V: Ground Zeroes,Action-Adventure,M,PlayStation 4,Konami Digital Entertainment,Kojima Productions,1.2,0.36,0.5,0.17,0.17,2014,75.0,6.2
+1936,Mad Max (2013),Action,M,PlayStation 4,Warner Bros. Interactive Entertainment,Avalanche Studios,1.2,0.38,0.59,0.05,0.19,2015,,
+1958,Shadow of the Colossus,Action-Adventure,T,PlayStation 4,Sony Interactive Entertainment,Bluepoint Games,1.2,0.44,0.52,0.05,0.19,2018,,
+1979,LEGO Dimensions,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.18,0.48,0.5,,0.2,2015,80.0,7.1
+1989,LEGO Jurassic World,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.18,0.41,0.56,0.02,0.19,2015,70.0,7.0
+2008,WWE 2K15,Sports,T,PlayStation 4,2K Sports,Visual Concepts,1.16,0.4,0.57,,0.19,2014,62.0,5.1
+2012,MLB The Show 17,Sports,E,PlayStation 4,Sony Interactive Entertainment,SIE San Diego Studio,1.16,0.94,,,0.22,2017,,
+2074,LEGO Worlds,Misc,,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.14,0.21,0.72,0.04,0.17,2017,,
+2086,The Elder Scrolls V: Skyrim VR,Role-Playing,M,PlayStation 4,Bethesda Softworks,Bethesda Softworks,1.13,0.47,0.47,0.01,0.19,2017,,
+2121,LEGO Marvel Super Heroes 2,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.11,0.33,0.6,0.0,0.18,2017,,
+2136,EA Sports UFC,Fighting,T,PlayStation 4,Electronic Arts,EA Canada,1.11,0.49,0.43,0.01,0.18,2014,70.0,6.1
+2153,Kingdom Hearts HD I.5 + II.5 ReMIX,Role-Playing,E10,PlayStation 4,Square Enix,Square Enix,1.1,,,,,2017,,
+2195,Alien: Isolation,Adventure,M,PlayStation 4,Sega,Creative Assembly,1.09,0.29,0.59,0.05,0.16,2014,79.0,8.1
+2247,MLB The Show 18,Sports,E,PlayStation 4,Sony Interactive Entertainment,SIE San Diego Studio,1.06,0.86,,,0.2,2018,,
+2288,The Evil Within 2,Action,M,PlayStation 4,Bethesda Softworks,Tango Gameworks,1.05,0.31,0.49,0.09,0.15,2017,,
+2305,Prey (2017),Shooter,M,PlayStation 4,Bethesda Softworks,Arkane Studios,1.04,0.25,0.62,0.02,0.16,2017,,
+2326,Nioh,Action,M,PlayStation 4,Sony Interactive Entertainment,Team Ninja,1.03,0.34,0.36,0.2,0.14,2017,,
+2363,MLB 15: The Show,Sports,E,PlayStation 4,Sony Computer Entertainment,SCE San Diego Studio,1.01,0.75,0.08,,0.19,2015,80.0,7.8
+2365,Steep,Sports,,PlayStation 4,Ubisoft,Ubisoft Annecy,1.01,0.23,0.6,0.02,0.15,2016,,
+2372,LEGO Marvel's Avengers,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,1.01,0.31,0.53,0.01,0.16,2016,71.0,7.0
+2383,Evolve,Shooter,M,PlayStation 4,2K Games,Turtle Rock Studios,1.01,0.38,0.41,0.05,0.16,2015,76.0,4.3
+2396,ARK: Survival Evolved,Action,T,PlayStation 4,Studio Wildcard,Studio Wildcard,1.0,,,,,2017,,
+2404,Final Fantasy Type-0 HD,Role-Playing,M,PlayStation 4,Square Enix,Square Enix,1.0,,,,,2015,,
+2406,Final Fantasy XII: The Zodiac Age,Role-Playing,T,PlayStation 4,Square Enix,Square Enix,1.0,,,,,2017,,
+2409,inFAMOUS: Second Son,Action-Adventure,T,PlayStation 4,Sony Computer Entertainment,Sucker Punch,1.0,,,,,2014,80.0,7.9
+2411,Kingdom Hearts HD II.8 Final Chapter Prologue,Role-Playing,E10,PlayStation 4,Square Enix,Square-Enix,1.0,,,,,2017,,
+2412,Knack,Platform,E10,PlayStation 4,Sony Computer Entertainment,SCE Japan Studio,1.0,,,,,2013,54.0,6.5
+2424,The Last of Us Remastered,Action-Adventure,M,PlayStation 4,Sony Computer Entertainment,Naughty Dog,1.0,,,,,2014,,
+2465,WWE 2K19,Fighting,,PlayStation 4,2K Sports,Visual Concepts,0.98,0.36,0.46,,0.16,2018,,
+2480,Injustice: Gods Among Us Ultimate Edition,Fighting,T,PlayStation 4,Warner Bros. Interactive Entertainment,NetherRealm Studios,0.98,0.46,0.35,,0.17,2013,,
+2491,EA Sports UFC 3,Sports,T,PlayStation 4,EA Sports,EA Vancouver,0.97,0.4,0.41,0.01,0.16,2018,,
+2519,Madden NFL 25,Sports,E,PlayStation 4,EA Sports,EA Tiburon,0.96,0.64,0.15,,0.17,2013,74.0,5.2
+2524,MLB 16: The Show,Sports,E,PlayStation 4,Sony Computer Entertainment,SCE San Diego Studio,0.96,0.78,,,0.18,2016,,
+2556,Lego Batman 3: Beyond Gotham,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.94,0.37,0.42,,0.16,2014,73.0,7.1
+2681,Final Fantasy X / X-2 HD Remaster,Role-Playing,T,PlayStation 4,Square Enix,Square Enix,0.9,0.34,0.36,0.07,0.14,2015,,
+2700,Ni no Kuni II: Revenant Kingdom,Role-Playing,T,PlayStation 4,Namco Bandai Games,Level 5,0.89,0.33,0.31,0.12,0.13,2018,,
+2707,God of War III Remastered,Action,M,PlayStation 4,Sony Computer Entertainment,SCEA Santa Monica Studio,0.89,0.4,0.33,0.02,0.15,2015,,
+2719,Fortnite,Action,T,PlayStation 4,Gearbox Software,Epic Games,0.89,0.42,0.32,,0.15,2017,,
+2743,LEGO Harry Potter Collection,Action,E,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.88,0.07,0.68,,0.13,2016,73.0,8.1
+2751,Minecraft: Story Mode,Adventure,E10,PlayStation 4,Mojang,Telltale Games,0.87,0.31,0.42,,0.14,2015,,
+2797,BioShock: The Collection,Shooter,M,PlayStation 4,2K Games,"Blind Squirrel Digital, Inc",0.86,0.41,0.28,0.03,0.14,2016,,
+2816,Thief,Action,M,PlayStation 4,Square Enix,Eidos Montreal,0.85,0.28,0.41,0.03,0.13,2014,,
+2820,Until Dawn: Rush of Blood,Shooter,M,PlayStation 4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.85,0.5,0.21,,0.15,2016,72.0,8.0
+2823,Disney Infinity 3.0,Action,E,PlayStation 4,Disney Interactive Studios,Avalanche Software,0.85,0.31,0.4,,0.14,2015,,
+2831,Farming Simulator 17,Simulation,E,PlayStation 4,Focus Home Interactive,Giants Software,0.85,0.19,0.52,0.01,0.13,2016,69.0,8.7
+2921,The Crew 2,Racing,T,PlayStation 4,Ubisoft,Ivory Tower,0.82,0.22,0.42,0.05,0.12,2018,,
+2922,Pro Evolution Soccer 2016,Sports,E,PlayStation 4,Konami Digital Entertainment,PES Productions,0.82,0.14,0.43,0.14,0.1,2015,87.0,7.1
+2949,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,Action,T,PlayStation 4,Square Enix,Square Enix,0.81,0.21,0.14,0.39,0.07,2015,,
+2998,Assassin's Creed The Ezio Collection,Action,M,PlayStation 4,Ubisoft,Ubisoft,0.79,0.14,0.52,0.02,0.12,2016,72.0,7.4
+3024,Final Fantasy XIV: A Realm Reborn,MMO,T,PlayStation 4,Square Enix,Square Enix,0.79,0.35,0.23,0.08,0.12,2014,,
+3028,Destiny: The Collection,Shooter,T,PlayStation 4,Activision,Bungie,0.78,0.24,0.4,0.02,0.12,2016,,8.1
+3053,F1 2016,Racing,,PlayStation 4,Codemasters,Codemasters,0.78,0.07,0.56,0.03,0.11,2017,,
+3061,Hitman,Action,M,PlayStation 4,Square Enix,IO Interactive,0.78,0.24,0.36,0.06,0.11,2017,,
+3113,Pro Evolution Soccer 2015,Sports,E,PlayStation 4,Konami Digital Entertainment,PES Productions,0.76,0.09,0.45,0.12,0.1,2014,82.0,7.2
+3151,LEGO City Undercover,Platform,E10,PlayStation 4,Warner Bros. Interactive Entertainment,TT Fusion,0.75,0.17,0.46,0.01,0.12,2017,,
+3156,Pro Evolution Soccer 2018,Sports,E,PlayStation 4,Konami Digital Entertainment,Konami Digital Entertainment,0.75,0.12,0.36,0.19,0.09,2017,,
+3163,Disney Infinity 2.0: Marvel Super Heroes,Action-Adventure,E10,PlayStation 4,Disney Interactive Studios,Avalanche Software,0.75,0.37,0.25,,0.13,2014,,
+3166,Pro Evolution Soccer 2017,Sports,E,PlayStation 4,Konami Digital Entertainment,PES Productions,0.75,0.08,0.41,0.18,0.09,2016,85.0,7.6
+3199,Sniper Elite III,Shooter,M,PlayStation 4,505 Games,Rebellion Developments,0.74,0.25,0.37,,0.12,2014,,
+3242,MLB 14 The Show,Sports,E,PlayStation 4,Sony Computer Entertainment,SCE San Diego Studio,0.73,0.59,,,0.14,2014,,
+3265,WipEout Omega Collection,Racing,E10,PlayStation 4,Sony Interactive Entertainment,Clever Beans / EPOS Game Studios,0.72,0.12,0.49,,0.11,2017,,
+3296,Deus Ex: Mankind Divided,Role-Playing,M,PlayStation 4,Square Enix,Eidos Montreal,0.72,0.25,0.34,0.01,0.12,2016,84.0,7.6
+3308,Astro Bot Rescue Mission,Platform,E10,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.71,0.22,0.36,0.02,0.11,2018,,
+3310,SoulCalibur VI,Fighting,T,PlayStation 4,Bandai Namco Games,Project Soul,0.71,0.44,0.11,0.04,0.12,2018,,
+3317,The LEGO Movie Videogame,Action-Adventure,E10,PlayStation 4,Warner Bros. Interactive Entertainment,TT Fusion,0.71,0.26,0.32,0.01,0.11,2014,71.0,7.1
+3374,Marvel vs. Capcom: Infinite,Fighting,T,PlayStation 4,Capcom,Capcom,0.7,0.36,0.19,0.04,0.11,2017,,
+3418,Dark Souls II: Scholar of the First Sin,Role-Playing,T,PlayStation 4,Namco Bandai Games,From Software,0.69,0.27,0.23,0.09,0.1,2015,,
+3431,F1 2015,Racing,,PlayStation 4,Codemasters,Codemasters Birmingham,0.68,0.1,0.45,0.04,0.1,2015,65.0,6.3
+3459,METRO Redux,Shooter,M,PlayStation 4,Deep Silver,4a-games,0.68,0.22,0.31,0.05,0.1,2014,,
+3474,Rocksmith 2014,Music,T,PlayStation 4,Ubisoft,Ubisoft San Francisco,0.67,0.38,0.17,,0.12,2016,,
+3545,NHL 16,Sports,,PlayStation 4,EA Sports,EA Canada,0.66,0.38,0.16,,0.12,2015,78.0,5.5
+3552,Plants vs Zombies: Garden Warfare,Shooter,E10,PlayStation 4,Electronic Arts,PopCap Games,0.66,0.24,0.3,0.01,0.11,2014,,
+3601,Tales of Berseria,Role-Playing,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.65,0.22,0.1,0.26,0.07,2017,,
+3604,Yakuza Zero,Adventure,M,PlayStation 4,Sega,Sega,0.65,0.22,0.16,0.19,0.08,2017,,
+3611,One Piece: Burning Blood,Fighting,T,PlayStation 4,Namco Bandai Games,Spike Chunsoft,0.65,0.21,0.26,0.09,0.09,2016,66.0,7.8
+3619,Batman: Return to Arkham,Action,T,PlayStation 4,Warner Bros. Interactive Entertainment,Rocksteady Studios,0.64,0.15,0.39,0.01,0.1,2016,73.0,8.5
+3686,Plants vs. Zombies: Garden Warfare 2,Shooter,E10,PlayStation 4,Electronic Arts,PopCap Games,0.63,0.22,0.31,,0.1,2016,81.0,7.7
+3723,LEGO The Hobbit,Action-Adventure,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.62,0.14,0.39,,0.1,2014,72.0,6.6
+3729,World of Final Fantasy,Role-Playing,E10,PlayStation 4,Square Enix,Square Enix,0.62,0.24,0.21,0.09,0.09,2016,77.0,8.3
+3742,F1 2017,Racing,E,PlayStation 4,Deep Silver,Codemasters,0.62,0.04,0.47,0.02,0.09,2017,,
+3753,NHL 15,Sports,E10,PlayStation 4,EA Sports,EA Canada,0.62,0.32,0.19,,0.11,2014,60.0,3.6
+3789,Knowledge is Power,Party,T,PlayStation 4,Sony Interactive Entertainment,Wish Studio,0.61,0.05,0.47,,0.09,2017,,
+3836,L.A. Noire,Adventure,M,PlayStation 4,Rockstar Games,Team Bondi,0.6,0.18,0.32,,0.1,2017,,
+3930,Hidden Agenda,Adventure,M,PlayStation 4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.59,0.08,0.42,,0.09,2017,,
+3946,Call of Duty: Modern Warfare Remastered,Shooter,M,PlayStation 4,Activision,Infinity Ward,0.58,0.17,0.3,0.03,0.09,2017,,
+3949,Dragon Quest Builders: Revive Alefgard,Role-Playing,E10,PlayStation 4,Square Enix,Square Enix,0.58,0.12,0.17,0.24,0.06,2016,,
+4022,The Lego Ninjago Movie Videogame,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.57,0.16,0.32,,0.09,2017,,
+4030,Resident Evil: Revelations 2,Action,M,PlayStation 4,Capcom,Capcom,0.57,0.14,0.25,0.11,0.07,2015,75.0,7.7
+4052,Rock Band 4,Music,T,PlayStation 4,Harmonix Music Systems,Harmonix Music Systems,0.57,0.41,0.06,,0.1,2015,78.0,6.3
+4086,NHL 18,Sports,,PlayStation 4,EA Sports,EA Canada,0.57,0.31,0.16,,0.1,2017,,
+4089,Mega Man Legacy Collection,Platform,E,PlayStation 4,Capcom,Digital Eclipse Software,0.57,,,,,2016,77.0,6.1
+4092,Everybody's Golf,Sports,E,PlayStation 4,Sony Interactive Entertainment,Clap Hanz,0.56,0.12,0.22,0.17,0.06,2017,,
+4094,The Amazing Spider-Man 2 (2014),Action-Adventure,T,PlayStation 4,Activision,Beenox,0.56,0.2,0.26,0.02,0.09,2014,,
+4146,DOOM VFR,Shooter,M,PlayStation 4,Bethesda Softworks,id Software,0.56,0.22,0.25,,0.09,2017,,
+4149,Just Cause 4,Action-Adventure,M,PlayStation 4,Square Enix,Avalanche Studios,0.56,0.18,0.26,0.03,0.09,2018,,
+4163,Sonic Forces,Platform,E10,PlayStation 4,Sega,Sonic Team,0.56,0.15,0.31,0.01,0.09,2017,,
+4165,Kingdom Come: Deliverance,Role-Playing,M,PlayStation 4,Deep Silver,Warhorse Studios,0.56,0.18,0.28,,0.09,2018,,
+4173,Lords of the Fallen,Role-Playing,M,PlayStation 4,Namco Bandai Games,DECK13 Interactive,0.55,0.2,0.24,0.02,0.09,2014,68.0,6.6
+4196,Sniper Elite 4,Shooter,M,PlayStation 4,Rebellion Developments,Rebellion Developments,0.55,0.21,0.25,,0.09,2017,,
+4227,Rory McIlroy PGA Tour,Sports,E,PlayStation 4,Electronic Arts,EA Tiburon,0.55,0.19,0.27,,0.09,2015,61.0,3.7
+4237,Project CARS 2,Racing,,PlayStation 4,Namco Bandai Games,Slightly Mad Studios,0.55,0.1,0.35,0.02,0.08,2017,,
+4320,LEGO The Incredibles,Action,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.53,0.18,0.27,,0.09,2018,,
+4371,F1 2018,Racing,E,PlayStation 4,Codemasters,Codemasters Birmingham,0.53,0.05,0.39,0.01,0.08,2018,,
+4400,Skylanders: Trap Team,Platform,E10,PlayStation 4,Activision,Toys for Bob,0.52,0.25,0.18,,0.09,2014,78.0,5.6
+4407,NHL 17,Sports,,PlayStation 4,EA Sports,EA Canada,0.52,0.32,0.11,,0.09,2016,78.0,5.8
+4451,One Piece: Pirate Warriors 3,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.52,0.11,0.22,0.11,0.06,2015,74.0,7.4
+4463,Hitman 2,Action-Adventure,M,PlayStation 4,Warner Bros. Interactive Entertainment,IO Interactive,0.51,0.19,0.22,0.02,0.08,2018,,
+4502,DiRT Rally,Racing,E,PlayStation 4,Codemasters,Codemasters,0.51,0.13,0.3,,0.08,2016,85.0,8.1
+4528,Homefront: The Revolution,Shooter,M,PlayStation 4,Deep Silver,Dambuster Studios,0.5,0.11,0.29,0.04,0.07,2016,48.0,3.8
+4544,Attack on Titan,Action,M,PlayStation 4,Tecmo Koei,Omega Force,0.5,0.08,0.24,0.12,0.06,2017,,
+4568,Yakuza 6: The Song of Life,Adventure,M,PlayStation 4,Sega,Sega,0.5,,,,,2018,,
+4597,Pro Evolution Soccer 2019,Sports,E,PlayStation 4,Konami,Konami,0.5,0.06,0.23,0.15,0.05,2018,,
+4678,DiRT 4,Racing,T,PlayStation 4,Deep Silver,Codemasters,0.49,0.1,0.3,0.02,0.07,2017,,
+4681,Dark Souls: Remastered,Role-Playing,M,PlayStation 4,Bandai Namco Entertainment,From Software,0.49,0.13,0.16,0.14,0.06,2018,,
+4700,Farpoint,Shooter,M,PlayStation 4,Sony Interactive Entertainment,Impulse Gear,0.48,,0.38,0.04,0.06,2017,,
+4714,Battleborn,Shooter,,PlayStation 4,2K Games,Gearbox Software,0.48,0.25,0.12,0.03,0.08,2016,68.0,6.8
+4723,A Way Out,Action,M,PlayStation 4,Electronic Arts,Hazelight,0.48,0.23,0.16,,0.08,2018,,
+4735,Friday the 13th: The Game,Action,M,PlayStation 4,Gun Media,IllFonic,0.48,0.29,0.09,0.03,0.08,2017,,
+4743,The Walking Dead: A Telltale Games Series,Adventure,M,PlayStation 4,Telltale Games,Telltale Games,0.48,0.12,0.26,0.03,0.07,2014,,
+4757,Wolfenstein: The Old Blood,Shooter,M,PlayStation 4,Bethesda Softworks,MachineGames,0.48,0.13,0.25,0.02,0.07,2015,76.0,8.0
+4779,Jurassic World Evolution,Simulation,,PlayStation 4,Frontier Developments,Frontier Developments,0.47,0.14,0.25,,0.08,2018,,
+4817,Deadpool,Action,M,PlayStation 4,Activision,High Moon Studios,0.47,0.26,0.13,,0.08,2015,60.0,5.7
+4820,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,Action,,PlayStation 4,Square Enix,Omega Force,0.47,0.05,0.09,0.3,0.03,2017,,
+4826,TrackMania Turbo,Racing,E,PlayStation 4,Ubisoft,Nadeo,0.47,0.04,0.35,,0.07,2016,81.0,7.9
+4834,Knack 2,Platform,E10,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.47,0.14,0.25,0.01,0.07,2017,,
+4837,Just Dance 2014,Music,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.47,0.21,0.18,,0.08,2013,75.0,5.5
+4848,Farming Simulator 19,Simulation,E,PlayStation 4,Focus Home Interactive,Giants Software,0.47,0.13,0.26,,0.07,2018,,
+4866,Dissidia Final Fantasy NT,Fighting,T,PlayStation 4,Square Enix,Square Enix,0.46,0.19,0.06,0.16,0.05,2018,,
+4900,LEGO DC Super-Villains,Action-Adventure,,PlayStation 4,Warner Bros. Interactive Entertainment,Traveller's Tales,0.46,0.22,0.17,,0.08,2018,,
+4942,Skylanders: SuperChargers,Action-Adventure,E10,PlayStation 4,Activision,Vicarious Visions,0.45,0.29,0.09,,0.08,2015,81.0,3.3
+4988,Yakuza Kiwami,Adventure,M,PlayStation 4,Sega,Sega,0.45,0.13,0.07,0.21,0.04,2017,,
+5016,Tales of Zestiria,Role-Playing,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.45,0.18,0.16,0.04,0.07,2015,72.0,6.8
+5043,Star Ocean 5: Integrity and Faithlessness,Role-Playing,,PlayStation 4,Square Enix,tri-Ace,0.45,0.1,0.13,0.16,0.05,2016,,
+5074,Sleeping Dogs: Definitive Edition,Action,M,PlayStation 4,Square Enix,United Front Games,0.44,0.16,0.21,,0.07,2014,,
+5080,Skylanders SWAP Force,Misc,,PlayStation 4,Activision,Unknown,0.44,0.23,0.14,,0.08,2013,79.0,5.2
+5164,Skylanders Imaginators,Platform,E10,PlayStation 4,Activision,Toys for Bob,0.43,0.18,0.18,,0.07,2016,80.0,5.5
+5165,Trials Fusion,Misc,,PlayStation 4,Ubisoft,Unknown,0.43,0.13,0.23,0.01,0.07,2014,79.0,7.2
+5212,NHL 19,Sports,,PlayStation 4,EA Sports,EA Canada,0.43,0.26,0.09,,0.08,2018,,
+5245,Saints Row IV: Re-Elected,Action,M,PlayStation 4,Deep Silver,Volition Inc.,0.42,0.15,0.18,0.03,0.06,2015,,
+5305,Dishonored: Definitive Edition,Action,M,PlayStation 4,Bethesda Softworks,Arkane Studios,0.42,0.12,0.21,0.02,0.06,2015,,
+5307,Mirror's Edge Catalyst,Platform,T,PlayStation 4,Electronic Arts,EA DICE,0.42,0.13,0.19,0.03,0.06,2016,69.0,4.7
+5389,Farming Simulator 2015,Simulation,E,PlayStation 4,Focus Home Interactive,Giants Software,0.41,0.13,0.22,,0.07,2015,,
+5434,Just Dance 2015,Music,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.41,0.21,0.13,,0.07,2014,72.0,5.8
+5440,Sword Art Online: Hollow Realization,Role-Playing,T,PlayStation 4,Namco Bandai Games,Aquria,0.41,0.18,0.06,0.12,0.05,2016,69.0,7.7
+5596,Just Dance 2016,Music,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.39,0.19,0.13,,0.07,2015,73.0,6.8
+5619,Batman: Arkham VR,Action,,PlayStation 4,Warner Bros. Interactive Entertainment,Rocksteady Studios,0.39,0.32,,,0.07,2016,75.0,7.3
+5662,Little Nightmares,Platform,T,PlayStation 4,Namco Bandai Games,Tarsier Studios,0.39,0.18,0.12,0.02,0.06,2017,,
+5664,Tropico 5,Simulation,T,PlayStation 4,Kalypso Media,Haemimont Games,0.38,0.07,0.18,0.08,0.05,2015,76.0,7.1
+5789,Life is Strange,Adventure,M,PlayStation 4,Square Enix,DONTNOD Entertainment,0.37,0.11,0.16,0.05,0.05,2016,85.0,8.6
+5801,Firewall: Zero Hour,Shooter,T,PlayStation 4,Sony Interactive Entertainment,First Contact Entertainment Inc.,0.37,0.14,0.16,0.02,0.06,2018,,
+5805,Resident Evil: Origins Collection,Action-Adventure,M,PlayStation 4,Capcom,Capcom,0.37,0.07,0.18,0.07,0.05,2016,,
+5825,Burnout Paradise Remastered,Racing,E10,PlayStation 4,Electronic Arts,Stellar Entertainment,0.37,0.08,0.22,0.01,0.06,2018,,
+5829,Dynasty Warriors 9,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.37,0.1,0.06,0.17,0.03,2018,,
+5842,Yakuza: Kiwami 2,Action,,PlayStation 4,Sega,Sega,0.37,0.08,0.06,0.19,0.03,2018,,
+5845,Vampyr,Role-Playing,M,PlayStation 4,Focus Home Interactive,DONTNOD Entertainment,0.37,0.12,0.19,,0.06,2018,,
+5895,Destiny 2: Forsaken,Shooter,,PlayStation 4,Activision,Bungie,0.36,0.19,0.11,,0.06,2018,,
+5904,Okami HD,Action,T,PlayStation 4,Capcom,Clover Studio,0.36,0.16,0.12,0.03,0.06,2017,,
+5923,Sniper: Ghost Warrior 3,Shooter,M,PlayStation 4,City Interactive,City Interactive,0.36,0.14,0.15,0.03,0.06,2017,,
+5943,Fist of The North Star: Lost Paradise,Action,M,PlayStation 4,Sega,Sega,0.36,0.09,0.05,0.18,0.03,2018,,
+6002,Sword Art Online: Lost Song,Role-Playing,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.36,0.19,0.11,,0.06,2015,63.0,6.3
+6006,Hello Neighbor,Action,E10,PlayStation 4,Gearbox Software,Dynamic Pixels,0.35,0.13,0.16,,0.06,2018,,
+6024,Disgaea 5: Alliance of Vengeance,Role-Playing,,PlayStation 4,NIS America,Nippon Ichi Software,0.35,0.15,0.08,0.07,0.05,2015,80.0,8.1
+6053,Dead or Alive 5 Last Round,Fighting,M,PlayStation 4,Tecmo Koei,Team Ninja,0.35,0.09,0.13,0.09,0.04,2015,,
+6060,Sega Genesis Classics,Misc,T,PlayStation 4,Sega,Sega,0.35,0.08,0.21,,0.05,2018,,
+6077,Gravity Rush 2,Action-Adventure,T,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.35,0.13,0.05,0.13,0.04,2017,,
+6124,Odin Sphere: Leifthrasir,Role-Playing,,PlayStation 4,Atlus,Vanillaware,0.34,0.14,0.07,0.09,0.04,2016,87.0,8.2
+6184,Divinity: Original Sin,Role-Playing,,PlayStation 4,Focus Home Interactive,Larian Studios,0.34,0.13,0.13,0.04,0.05,2015,,
+6198,The King of Fighters XIV,Fighting,T,PlayStation 4,Atlus,SNK Playmore,0.34,0.21,0.02,0.06,0.05,2016,79.0,8.7
+6236,Dishonored: Death of the Outsider,Action,M,PlayStation 4,Bethesda Softworks,Arkane Studios,0.33,0.1,0.18,,0.05,2017,,
+6240,Valkyria Chronicles Remastered,Role-Playing,T,PlayStation 4,Sega,Sega,0.33,0.14,0.08,0.08,0.04,2016,,
+6310,Murdered: Soul Suspect,Action-Adventure,M,PlayStation 4,Square Enix,Airtight Games,0.33,0.09,0.17,0.02,0.05,2014,59.0,6.9
+6315,PlayerUnknown's Battlegrounds,Shooter,T,PlayStation 4,Sony Interactive Entertainment,PUBG Corporation,0.33,0.13,0.15,,0.05,2018,,
+6508,Payday 2,Shooter,M,PlayStation 4,505 Games,Overkill Software,0.32,0.12,0.14,,0.05,2015,,
+6591,UEFA Euro 2016,Sports,,PlayStation 4,Konami Digital Entertainment,Konami Digital Entertainment,0.31,,0.22,0.05,0.04,2016,72.0,6.6
+6597,DmC Devil May Cry: Definitive Edition,Action,M,PlayStation 4,Capcom,QLOC,0.31,0.12,0.13,,0.05,2015,,
+6621,Sonic Mania,Platform,E,PlayStation 4,Sega,PagodaWest Games,0.31,0.1,0.15,0.01,0.05,2017,,
+6622,J Stars Victory Vs.,Fighting,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.31,0.11,0.14,,0.05,2015,,
+6631,XCOM 2,Strategy,T,PlayStation 4,2K Games,Firaxis Games,0.31,0.16,0.1,,0.05,2016,88.0,8.0
+6647,Dynasty Warriors 8: Xtreme Legends,Misc,,PlayStation 4,Tecmo Koei,Unknown,0.31,0.09,0.12,0.06,0.04,2014,,
+6694,Cities: Skylines,Simulation,E,PlayStation 4,Koch Media,Colossal Order,0.3,0.15,0.07,0.04,0.05,2017,,
+6716,My Hero One's Justice,Fighting,T,PlayStation 4,Bandai Namco Entertainment,Byking,0.3,0.16,0.05,0.04,0.05,2018,,
+6745,Saint Seiya: Soldiers' Soul,Fighting,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.3,,0.21,0.05,0.04,2015,59.0,7.8
+6763,Just Dance 2018,Music,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.3,0.1,0.15,,0.05,2017,,
+6809,The Walking Dead: Season Two,Misc,,PlayStation 4,Telltale Games,Unknown,0.3,0.13,0.09,0.03,0.05,2014,,
+6812,Sword Art Online: Fatal Bullet,Role-Playing,T,PlayStation 4,Namco Bandai Games,Dimps Corporation,0.29,0.11,0.03,0.13,0.03,2018,,
+6822,Naruto to Boruto: Shinobi Striker,Action,T,PlayStation 4,Bandai Namco Games,Soleil Software Studio Inc.,0.29,0.19,0.03,0.02,0.05,2018,,
+6834,Yooka-Laylee,Platform,E10,PlayStation 4,Team17 Software,Playtonic Games,0.29,0.09,0.16,,0.05,2018,,
+6925,Cars 3: Driven to Win,Racing,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Avalanche Software,0.29,0.06,0.18,0.01,0.04,2017,,
+6941,Metal Gear Solid V: The Definitive Experience,Action,M,PlayStation 4,Konami Digital Entertainment,Kojima Productions,0.29,0.13,0.08,0.03,0.04,2016,,7.8
+6973,Sherlock Holmes: Crimes & Punishments,Adventure,M,PlayStation 4,Focus Home Interactive,Frogwares,0.29,0.1,0.14,,0.05,2014,,
+7012,Star Trek Bridge Crew,Action,E10,PlayStation 4,Ubisoft,Red Storm Entertainment,0.28,0.11,0.12,,0.05,2017,,
+7050,The Heavy Rain and Beyond: Two Souls Collection,Action,,PlayStation 4,Sony Computer Entertainment,Quantic Dream,0.28,,0.24,,0.04,2016,,
+7109,Spintires: MudRunner,Simulation,E,PlayStation 4,Focus Home Interactive,Saber Interactive,0.28,0.11,0.12,,0.05,2017,,
+7122,Onechanbara Z2: Chaos,Action,M,PlayStation 4,NIS America,Tamsoft,0.28,0.16,0.03,0.05,0.04,2015,57.0,6.5
+7134,Secret of Mana,Role-Playing,E10,PlayStation 4,Square Enix,Square,0.28,0.06,0.12,0.05,0.04,2018,,
+7151,Gundam Versus,Action,T,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.28,0.08,,0.18,0.02,2017,,
+7193,NBA Live 14,Sports,E,PlayStation 4,EA Sports,EA Tiburon,0.27,0.17,0.05,,0.05,2013,43.0,2.7
+7219,Bravo Team,Shooter,T,PlayStation 4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.27,0.12,0.09,0.02,0.04,2018,,
+7283,Killing Floor 2,Shooter,M,PlayStation 4,Tripwire Interactive,Tripwire Interactive,0.27,0.19,0.03,,0.05,2016,,
+7285,Robinson: The Journey,Action-Adventure,E,PlayStation 4,Sony Interactive Entertainment,Crytek,0.27,0.14,0.09,,0.05,2016,65.0,6.9
+7286,Driveclub VR,Racing,E,PlayStation 4,Sony Interactive Entertainment,Evolution Studios,0.27,0.12,0.09,0.01,0.04,2016,,
+7288,Shenmue I & II,Action-Adventure,T,PlayStation 4,Sega,Sega,0.27,0.09,0.1,0.05,0.04,2018,,
+7343,Fate/Extella: The Umbral Star,Action,T,PlayStation 4,Xseed Games,Marvelous Entertainment,0.27,0.12,,0.12,0.03,2017,,
+7433,Ultimate Marvel vs. Capcom 3,Fighting,,PlayStation 4,Capcom,Capcom,0.26,0.19,,0.02,0.04,2017,,
+7536,Jikkyou Powerful Pro Baseball 2018,Sports,,PlayStation 4,Konami,Konami,0.26,,,0.26,,2018,,
+7602,Tetris Effect,Puzzle,E,PlayStation 4,Sony Interactive Entertainment,Monstars Inc.,0.25,0.19,0.01,0.01,0.05,2018,,
+7684,Danganronpa V3: Killing Harmony,Adventure,M,PlayStation 4,NIS America,Spike Chunsoft,0.25,0.09,0.05,0.07,0.03,2017,,
+7712,Samurai Warriors 4,Fighting,T,PlayStation 4,Tecmo Koei,Omega Force,0.25,0.08,0.07,0.06,0.03,2014,76.0,8.1
+7726,Darksiders III,Action,M,PlayStation 4,THQ Nordic,Gunfire Games,0.25,0.13,0.07,,0.04,2018,,
+7728,NBA Live 15,Sports,E,PlayStation 4,Electronic Arts,EA Tiburon,0.25,0.16,0.04,,0.04,2014,59.0,5.6
+7785,Valkyria Chronicles 4,Role-Playing,T,PlayStation 4,Sega,Sega,0.25,0.1,0.03,0.08,0.03,2018,,
+7790,NBA Live 18,Sports,E,PlayStation 4,EA Sports,EA Sports,0.24,0.2,,,0.05,2017,,
+7807,Tearaway Unfolded,Platform,E,PlayStation 4,Sony Computer Entertainment,Media Molecule,0.24,0.07,0.13,,0.04,2015,81.0,8.1
+7833,.hack//G.U. Last Recode,Role-Playing,T,PlayStation 4,Namco Bandai Games,CyberConnect2,0.24,0.1,0.04,0.08,0.03,2017,,
+7849,Ride,Racing,E,PlayStation 4,Milestone S.r.l.,Milestone S.r.l.,0.24,0.04,0.13,0.03,0.03,2015,66.0,7.0
+7863,Just Dance 2017,Misc,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.24,0.08,0.12,,0.04,2016,73.0,
+7874,The Escapists 2,Action,T,PlayStation 4,Sold Out,Team17 Software,0.24,0.04,0.16,,0.04,2017,,
+7899,Transformers: Devastation,Action,T,PlayStation 4,Activision,PlatinumGames,0.24,0.11,0.09,,0.04,2015,77.0,7.5
+7911,Earth Defense Force 5,Shooter,,PlayStation 4,D3 Publisher,Sandlot,0.24,,,0.24,,2018,,
+7927,Darksiders II: Deathinitive Edition,Action-Adventure,M,PlayStation 4,Nordic Games,Gunfire Games,0.24,0.1,0.1,,0.04,2015,,
+7933,Jikkyou Powerful Pro Baseball 2016,Sports,,PlayStation 4,Konami Digital Entertainment,Konami Digital Entertainment,0.24,,,0.24,,2016,,
+7935,The Elder Scrolls Online: Morrowind,MMO,M,PlayStation 4,Bethesda Softworks,ZeniMax Online Studios,0.24,0.11,0.09,,0.04,2017,,
+7939,Street Fighter 30th Anniversary Collection,Fighting,T,PlayStation 4,Capcom,Capcom,0.24,0.11,0.07,0.02,0.04,2018,,
+7961,Digimon World: Next Order,Role-Playing,E10,PlayStation 4,Namco Bandai Games,Bandai Namco Games,0.24,0.13,0.05,0.02,0.04,2017,,
+7971,theHunter: Call of the Wild,Shooter,T,PlayStation 4,THQ Nordic,Expansive Worlds,0.24,0.19,,,0.04,2017,,
+8052,Tony Hawk's Pro Skater 5,Sports,T,PlayStation 4,Activision,Robomodo,0.23,0.11,0.08,,0.04,2015,32.0,1.5
+8067,Angry Birds: Star Wars,Puzzle,E,PlayStation 4,Activision,Exient Entertainment,0.23,0.11,0.09,,0.04,2013,,
+8069,Elex,Role-Playing,M,PlayStation 4,THQ Nordic,Piranha Bytes,0.23,0.03,0.16,,0.04,2017,,
+8083,RIGS: Mechanized Combat League,Action,T,PlayStation 4,Sony Interactive Entertainment,Guerrilla Cambridge,0.23,0.11,0.06,0.02,0.04,2016,79.0,7.9
+8119,Transformer: Rise of the Dark Spark,Shooter,T,PlayStation 4,Activision,Edge of Reality,0.23,0.08,0.11,0.01,0.04,2014,,
+8190,Dead Island Definitive Collection,Action,,PlayStation 4,Deep Silver,Techland,0.23,0.09,0.08,0.03,0.03,2016,63.0,6.4
+8206,Metal Gear Survive,Action,M,PlayStation 4,Konami Digital Entertainment,Konami Digital Entertainment,0.23,0.08,0.06,0.05,0.03,2018,,
+8221,SingStar Celebration,Music,T,PlayStation 4,Sony Interactive Entertainment,SIE London Studio,0.23,0.04,0.15,,0.03,2017,,
+8264,Dead by Daylight,Action,M,PlayStation 4,505 Games,Behaviour Interactive Inc.,0.22,0.11,0.06,0.02,0.04,2017,,
+8268,Attack on Titan 2,Action,M,PlayStation 4,Koei Tecmo,Omega Force,0.22,0.09,0.04,0.06,0.03,2018,,
+8271,The Wolf Among Us,Adventure,,PlayStation 4,Telltale Games,Telltale Games,0.22,0.11,0.07,,0.04,2014,83.0,8.4
+8278,Micro Machines: World Series,Racing,,PlayStation 4,Codemasters,Codemasters,0.22,0.03,0.16,,0.03,2017,,
+8293,Life Is Strange: Before the Storm,Adventure,M,PlayStation 4,Square Enix,Deck Nine,0.22,0.11,0.06,0.02,0.03,2018,,
+8338,Bladestorm: Nightmare,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.22,0.11,0.04,0.03,0.03,2015,58.0,6.5
+8360,Zombie Army Trilogy,Shooter,M,PlayStation 4,Rebellion Developments,Rebellion Developments,0.22,0.06,0.13,,0.03,2015,62.0,6.8
+8370,Outlast Trinity,Action,,PlayStation 4,Warner Bros. Interactive Entertainment,Red Barrels,0.22,0.09,0.09,,0.04,2017,,
+8392,Warriors Orochi 4,Action,T,PlayStation 4,Koei Tecmo,Omega Force,0.22,0.05,,0.16,0.01,2018,,
+8452,EVE: Valkyrie,Shooter,T,PlayStation 4,Sony Interactive Entertainment,CCP,0.21,0.11,0.06,,0.04,2016,73.0,6.3
+8482,Senran Kagura: Peach Beach Splash,Action,M,PlayStation 4,Xseed Games,Marvelous Entertainment,0.21,0.09,0.02,0.08,0.02,2017,,
+8489,Ys VIII: Lacrimosa of Dana,Role-Playing,T,PlayStation 4,NIS America,Falcom,0.21,0.08,0.04,0.08,0.02,2017,,
+8510,Bound By Flame,Action,M,PlayStation 4,Focus Home Interactive,Spiders,0.21,0.08,0.09,,0.04,2014,53.0,5.9
+8572,NBA Live 16,Sports,E,PlayStation 4,EA Sports,EA Tiburon,0.21,0.13,0.05,,0.04,2015,59.0,6.1
+8580,Conan Exiles,Action-Adventure,M,PlayStation 4,Maximum Games,Funcom Oslo A/S,0.21,0.05,0.05,0.09,0.02,2018,,
+8607,Devil May Cry HD Collection,Action,,PlayStation 4,Capcom,Capcom,0.21,0.1,0.06,0.02,0.03,2018,,
+8613,7 Days to Die,Action,M,PlayStation 4,Telltale Games,The Fun Pimps,0.21,0.09,0.08,,0.03,2016,45.0,5.9
+8624,Dynasty Warriors 8: Empires,Misc,,PlayStation 4,Tecmo Koei,Unknown,0.21,0.07,0.07,0.04,0.03,2015,63.0,7.5
+8627,Dragon's Dogma: Dark Arisen,Role-Playing,M,PlayStation 4,Capcom,Capcom,0.21,0.07,0.07,0.03,0.03,2017,,
+8677,Kingdom Hearts: The Story So Far,Role-Playing,,PlayStation 4,Square Enix,Square Enix,0.2,0.17,,,0.04,2018,,
+8689,Godzilla (2015),Action,T,PlayStation 4,Namco Bandai Games,Natsume,0.2,0.11,0.03,0.03,0.03,2015,,
+8735,Eagle Flight,Adventure,E10,PlayStation 4,Ubisoft,Ubisoft,0.2,0.09,0.08,,0.03,2016,72.0,7.8
+8892,Agents of Mayhem,Action,M,PlayStation 4,Deep Silver,Volition Inc.,0.2,0.08,0.08,,0.03,2017,,
+8909,MotoGP 14,Racing,E,PlayStation 4,Namco Bandai Games,Milestone S.r.l.,0.2,0.05,0.11,,0.03,2014,,
+9042,Elite: Dangerous,Simulation,T,PlayStation 4,Frontier Developments,Frontier Developments,0.19,0.06,0.1,,0.03,2017,,
+9044,Shovel Knight,Platform,E,PlayStation 4,Yacht Club Games,Yacht Club Games,0.19,,,,,2015,90.0,7.6
+9047,Singstar: Ultimate Party,Music,,PlayStation 4,Sony Computer Entertainment,London Studios,0.19,,0.16,,0.03,2014,47.0,4.1
+9063,NBA Live 19,Sports,,PlayStation 4,Electronic Arts,EA Tiburon,0.19,0.15,,,0.04,2018,,
+9103,Toukiden Kiwami,Action,,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.19,0.06,0.07,0.03,0.03,2015,74.0,7.6
+9145,Creed: Rise to Glory,Sports,,PlayStation 4,Sony Interactive Entertainment,Survios,0.19,0.15,,,0.04,2018,,
+9169,Batman: A Telltale Game Series,Adventure,M,PlayStation 4,Telltale Games,Telltale Games,0.19,0.09,0.07,,0.03,2016,,
+9189,The Surge,Action,M,PlayStation 4,Focus Home Interactive,DECK13 Interactive,0.19,0.07,0.08,0.01,0.03,2017,,
+9264,Bendy and the Ink Machine,Puzzle,T,PlayStation 4,Rooster Teeth Games,TheMeatly Games,0.18,0.15,,,0.03,2018,,
+9287,MotoGP 15,Racing,,PlayStation 4,Milestone S.r.l.,Milestone S.r.l.,0.18,,0.13,0.04,0.02,2015,66.0,
+9325,Resident Evil: Revelations,Action,M,PlayStation 4,Capcom,Capcom,0.18,0.06,0.06,0.04,0.02,2017,,
+9402,Senran Kagura: Estival Versus,Action,M,PlayStation 4,Xseed Games,Marvelous Entertainment,0.18,0.08,,0.09,0.02,2016,67.0,8.0
+9404,Back to the Future: The Game,Adventure,T,PlayStation 4,Telltale Games,Telltale Games,0.18,0.1,0.05,,0.03,2015,,7.1
+9523,The Walking Dead - The Telltale Series: A New Frontier,Adventure,,PlayStation 4,Warner Bros. Interactive Entertainment,Telltale Games,0.17,0.11,0.04,,0.03,2017,,
+9576,Mega Man 11,Platform,,PlayStation 4,Capcom,Capcom,0.17,0.09,0.03,0.03,0.03,2018,,
+9597,Resident Evil 6,Shooter,M,PlayStation 4,Capcom,Capcom,0.17,0.1,,0.05,0.02,2016,60.0,6.7
+9637,Final Fantasy XIV: Heavensward,MMO,T,PlayStation 4,Square Enix,Square Enix,0.17,,0.09,0.06,0.02,2015,86.0,7.6
+9647,Final Fantasy XIV: Stormblood,MMO,T,PlayStation 4,Square Enix,Square Enix,0.17,0.05,0.06,0.04,0.02,2017,,
+9661,Just Dance 2019,Music,E,PlayStation 4,Ubisoft,Ubisoft Paris,0.17,0.11,0.03,,0.03,2018,,
+9665,Guilty Gear Xrd: Sign,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.17,0.11,,0.04,0.02,2014,,
+9680,Prototype: Biohazard Bundle,Action,,PlayStation 4,Activision,Activision,0.17,0.14,,,0.03,2016,48.0,2.0
+9698,BlazBlue: Central Fiction,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.17,0.1,,0.05,0.02,2016,,
+9709,MXGP 3: The Official Motocross Videogame,Racing,E,PlayStation 4,Milestone,Milestone,0.17,0.06,0.08,,0.03,2017,,
+9748,TT Isle of Man: Ride on the Edge,Racing,E,PlayStation 4,Big Ben Interactive,Kylotonn,0.17,0.05,0.09,,0.03,2018,,
+9820,Ride 2,Racing,E,PlayStation 4,Milestone S.r.l,Milestone S.r.l.,0.16,0.07,0.06,0.01,0.03,2017,71.0,8.0
+9839,Dead Rising 4: Frank's Big Package,Action-Adventure,M,PlayStation 4,Capcom,Capcom,0.16,0.08,0.05,,0.03,2017,,
+9848,Putty Squad,Platform,E10,PlayStation 4,System 3,System 3,0.16,0.06,0.07,,0.03,2013,38.0,2.9
+9889,Digimon Story: Cyber Sleuth - Hacker's Memory,Role-Playing,T,PlayStation 4,Namco Bandai Games,Media.Vision,0.16,0.05,0.05,0.04,0.02,2018,,
+9899,Battlezone,Action,T,PlayStation 4,Sony Interactive Entertainment,Rebellion Developments,0.16,0.09,0.04,,0.03,2016,66.0,7.0
+9918,Naruto Shippuden: Ultimate Ninja Storm Legacy,Fighting,,PlayStation 4,Namco Bandai Games,CyberConnect2,0.16,0.07,0.04,0.03,0.02,2017,,
+9924,Berserk and the Band of the Hawk,Action,M,PlayStation 4,Tecmo Koei,Omega Force,0.16,0.07,0.02,0.05,0.02,2017,,
+9957,BlazBlue: Chrono Phantasma Extend,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.16,0.08,0.04,0.02,0.02,2015,80.0,7.7
+10005,Pillars of Eternity,Role-Playing,M,PlayStation 4,Paradox Interactive,Obsidian Entertainment,0.16,0.11,0.02,,0.03,2017,,
+10032,Valkyria Revolution,Role-Playing,T,PlayStation 4,Sega,Media.Vision,0.16,0.04,0.03,0.07,0.02,2017,,
+10064,Overcooked! 2,Simulation,,PlayStation 4,Sold Out,Ghost Town Games,0.16,0.07,0.06,,0.03,2018,,
+10113,Gravity Rush Remastered,Action-Adventure,T,PlayStation 4,Sony Computer Entertainment,Bluepoint Games,0.16,0.02,0.06,0.05,0.02,2016,80.0,8.2
+10157,Assassin's Creed Rogue Remastered,Action-Adventure,,PlayStation 4,Ubisoft,Ubisoft,0.15,,0.13,0.01,0.02,2018,,
+10228,Psycho-Pass: Mandatory Happiness,Visual Novel,T,PlayStation 4,NIS America,5pb. Inc.,0.15,0.1,0.02,,0.03,2016,72.0,8.3
+10238,Brothers: A Tale of Two Sons,Adventure,T,PlayStation 4,505 Games,Starbreeze Studios,0.15,0.04,0.09,,0.02,2015,81.0,8.6
+10249,Warriors Orochi 3,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.15,0.04,0.05,0.04,0.02,2014,,
+10307,Wasteland 2,Role-Playing,,PlayStation 4,Deep Silver,InXile Entertainment,0.15,0.1,,0.03,0.02,2015,,
+10322,Atelier Sophie: The Alchemist of the Mysterious Book,Role-Playing,T,PlayStation 4,Tecmo Koei,Gust,0.15,0.04,0.03,0.07,0.01,2016,75.0,8.1
+10364,NASCAR Heat Evolution,Racing,,PlayStation 4,Dusenberry Martin Racing,Monster Games,0.15,0.12,,,0.03,2016,66.0,3.8
+10404,Yakuza: Ishin,Adventure,,PlayStation 4,Sega,Sega,0.15,,,0.15,,2014,,
+10419,Toukiden 2,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.15,0.04,,0.1,0.01,2017,,
+10433,Song of the Deep,Action,,PlayStation 4,Insomniac Games,Insomniac Games,0.15,0.12,,,0.03,2016,69.0,7.3
+10492,Super Robot Wars V,Role-Playing,,PlayStation 4,Namco Bandai Games,B.B. Studio,0.15,,,0.15,,2017,,
+10520,Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,Role-Playing,M,PlayStation 4,Tecmo Koei,Gust,0.14,0.07,,0.06,0.02,2017,,
+10538,Cyberdimension Neptunia: 4 Goddesses Online,Role-Playing,T,PlayStation 4,Idea Factory International,Compile Heart,0.14,0.06,,0.07,0.01,2017,,
+10545,Grand Kingdom,Role-Playing,T,PlayStation 4,NIS America,Monochrome Corporation,0.14,0.08,,0.04,0.02,2016,78.0,8.1
+10556,Arslan: The Warriors of Legend,Action,T,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.14,0.03,0.04,0.06,0.01,2016,69.0,6.6
+10604,Pro Cycling Manager 2016,Sports,,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.14,,0.12,,0.02,2016,,
+10666,Adventure Time: Finn & Jake Investigations,Action,E10,PlayStation 4,Little Orbit,Vicious Cycle,0.14,0.07,0.05,,0.02,2015,,
+10680,Guilty Gear Xrd -Revelator-,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.14,0.06,,0.07,0.01,2016,,
+10684,We Happy Few,Action-Adventure,M,PlayStation 4,Gearbox Software,Compulsion Games,0.14,0.08,0.04,,0.02,2018,,
+10685,Rocksmith 2014 Edition Remastered,Music,T,PlayStation 4,Ubisoft,Ubisoft,0.14,0.11,,,0.03,2016,,7.8
+10729,Mega Man X Legacy Collection 1+2,Platform,,PlayStation 4,Capcom Entertainment,Digital Eclipse Software,0.14,0.07,,0.05,0.02,2018,,
+10737,The Crew: Wild Run,Racing,T,PlayStation 4,Ubisoft,Ivory Tower,0.14,,0.12,,0.02,2015,73.0,6.8
+10760,MXGP 2,Racing,E,PlayStation 4,Milestone S.r.l,Milestone S.r.l.,0.14,0.05,0.06,,0.02,2016,,
+10810,MotoGP 17,Racing,E,PlayStation 4,Koch Media,Milestone S.r.l.,0.14,0.04,0.07,,0.02,2017,,
+10821,Fairy Fencer F: Advent Dark Force,Role-Playing,T,PlayStation 4,Idea Factory International,Compile Heart,0.14,0.06,,0.06,0.01,2016,71.0,6.2
+10883,Divinity: Original Sin II,Role-Playing,,PlayStation 4,Bandai Namco Entertainment,Larian Studios,0.13,0.04,0.08,,0.02,2018,,
+10894,Samurai Warriors 4-II,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.13,0.04,0.02,0.07,0.01,2015,73.0,7.3
+10914,The Golf Club,Sports,E,PlayStation 4,Maximum Games,HB Studios,0.13,0.09,0.02,,0.02,2015,66.0,6.3
+10925,Hatsune Miku: Project Diva X,Music,T,PlayStation 4,Sega,Sega,0.13,0.08,,0.04,0.02,2016,78.0,7.4
+10926,New Gundam Breaker,Action,,PlayStation 4,Namco Bandai Games,Bandai Namco Games,0.13,0.03,,0.1,0.01,2018,,
+10997,Super Robot Wars X,Strategy,,PlayStation 4,Bandai Namco Games,Bandai Namco,0.13,,,0.13,,2018,,
+11019,NASCAR Heat 2,Racing,E,PlayStation 4,704Games,Monster Games,0.13,0.11,,,0.02,2017,,
+11044,Bulletstorm: Full Clip Edition,Shooter,M,PlayStation 4,Gearbox Software,People Can Fly,0.13,0.05,0.06,,0.02,2017,,
+11049,Valentino Rossi: The Game,Racing,,PlayStation 4,Namco Bandai Games,Milestone S.r.l.,0.13,0.05,0.05,,0.02,2016,75.0,8.0
+11074,The Legend of Heroes: Trails of Cold Steel IV,Role-Playing,,PlayStation 4,Falcom,Falcom,0.13,,,0.13,,2018,,
+11103,Golf Club 2,Sports,E,PlayStation 4,Maximum Games,HB Studios,0.13,0.05,0.06,,0.02,2017,,
+11127,Persona Dancing: Endless Night Collection,Music,,PlayStation 4,Atlus,Atlus,0.13,0.07,,0.04,0.02,2018,,
+11133,Akiba's Trip: Undead & Undressed,Action,M,PlayStation 4,Xseed Games,Acquire,0.13,0.09,,0.02,0.02,2014,,
+11134,NASCAR Heat 3,Racing,,PlayStation 4,704Games,Monster Games,0.13,0.1,,,0.02,2018,,
+11143,Rugby 15,Sports,EC,PlayStation 4,Maximum Games,HB Studios,0.13,0.05,0.06,,0.02,2015,19.0,3.4
+11185,Utawarerumono: Mask of Truth,Visual Novel,M,PlayStation 4,Atlus,Aqua Plus,0.13,0.05,,0.07,0.01,2017,,
+11222,The Legend of Heroes: Trails of Cold Steel III,Role-Playing,,PlayStation 4,Nihon Falcom Corporation,Nihon Falcom Corporation,0.13,,,0.13,,2017,,
+11229,Utawarerumono: Mask of Deception,Adventure,,PlayStation 4,Atlus,Aqua Plus,0.13,0.05,,0.07,0.01,2017,,
+11245,The Inpatient,Action,M,PlayStation 4,Sony Interactive Entertainment,Supermassive Games Ltd.,0.13,0.06,0.05,,0.02,2018,,
+11253,Don Bradman Cricket 14,Sports,,PlayStation 4,Tru Blu Entertainment,Big Ant Studios,0.13,0.01,0.09,,0.02,2015,76.0,7.4
+11261,Sword Art Online: Hollow Fragment,Role-Playing,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.12,,0.11,,0.02,2015,,
+11266,MX vs ATV All Out,Racing,E10,PlayStation 4,THQ Nordic,Rainbow Studios,0.12,0.09,0.01,,0.02,2018,,
+11279,Dragon's Crown Pro,Role-Playing,,PlayStation 4,Atlus,Vanillaware,0.12,0.1,,,0.02,2018,,
+11321,Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,T,PlayStation 4,Activision,PlatinumGames,0.12,0.07,0.03,,0.02,2016,44.0,5.5
+11367,Job Simulator,Simulation,E10,PlayStation 4,Sony Interactive Entertainment,Owlchemy Labs,0.12,0.1,,,0.02,2017,,
+11376,Portal Knights,Role-Playing,E10,PlayStation 4,505 Games,Keen Games,0.12,0.02,0.05,0.03,0.01,2017,,
+11384,Fire Pro Wrestling World,Fighting,T,PlayStation 4,Spike Chunsoft,Spike Chunsoft,0.12,0.06,0.02,0.03,0.02,2018,,
+11457,Samurai Warriors 4: Empires,Action,,PlayStation 4,Tecmo Koei,Omega Force,0.12,0.03,0.01,0.07,0.01,2016,71.0,6.5
+11479,Call of Cthulhu,Role-Playing,M,PlayStation 4,Focus Home Interactive,Cyanide,0.12,0.07,0.03,,0.02,2018,,
+11486,Danganronpa 1-2 Reload,Adventure,M,PlayStation 4,NIS America,Spike Chunsoft,0.12,0.08,,0.02,0.02,2017,,
+11521,Subnautica,Adventure,,PlayStation 4,Gearbox Software,Unknown Worlds Entertainment,0.12,0.07,0.03,,0.02,2018,,
+11526,God Eater 2: Rage Burst,Role-Playing,T,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.12,,0.01,0.11,0.0,2015,69.0,8.0
+11557,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,Misc,E,PlayStation 4,Ubisoft,Ubisoft,0.12,0.1,,,0.02,2017,,
+11566,Marvel's Guardians of the Galaxy: The Telltale Series,Adventure,T,PlayStation 4,Warner Bros. Interactive Entertainment,Telltale Games,0.12,0.06,0.04,,0.02,2017,,
+11678,Digimon Story: Cyber Sleuth,Role-Playing,,PlayStation 4,Namco Bandai Games,Media.Vision,0.11,,0.1,,0.02,2016,75.0,8.5
+11706,Constructor HD,Strategy,,PlayStation 4,Deep Silver,System 3,0.11,0.09,,,0.02,2017,,
+11731,Minecraft: Story Mode - Season Two,Adventure,E10,PlayStation 4,Telltale Games,Telltale Games,0.11,0.09,,0.0,0.02,2017,,
+11752,Darksiders: Warmastered Edition,Action-Adventure,M,PlayStation 4,THQ Nordic,Kaiko,0.11,0.07,0.02,,0.02,2016,79.0,8.5
+11772,Mighty No. 9,Platform,E10,PlayStation 4,Deep Silver,Comcept,0.11,0.09,,,0.02,2016,52.0,3.5
+11781,The Invisible Hours,Adventure,T,PlayStation 4,GameTrust,Tequila Works,0.11,0.09,,,0.02,2017,,
+11785,Monster Energy Supercross - The Official Videogame,Racing,E,PlayStation 4,Milestone S.r.l.,Milestone S.r.l.,0.11,0.08,0.01,,0.02,2018,,
+11804,The Idolmaster: Platinum Stars,Simulation,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.11,,,0.11,,2016,,
+11826,The Witch and the Hundred Knight,Role-Playing,T,PlayStation 4,NIS America,Nippon Ichi Software,0.11,0.03,0.01,0.06,0.01,2016,,
+11828,SD Gundam G Generation Genesis,Strategy,,PlayStation 4,Namco Bandai Games,Bandai Namco,0.11,,,0.11,,2016,,
+11919,RiME,Adventure,E10,PlayStation 4,Grey Box,Tequila Works,0.11,0.02,0.07,,0.02,2017,,
+11924,Super Robot Wars OG: The Moon Dwellers,Misc,,PlayStation 4,Namco Bandai Games,Unknown,0.11,,,0.11,,2016,,
+11944,Gundam Breaker 3,Action,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.11,,,0.11,,2016,,
+11949,Earth Defense Force 4.1: The Shadow of New Despair,Shooter,M,PlayStation 4,Xseed Games,Sandlot,0.11,,,0.11,,2015,64.0,7.9
+12085,Shadow Warrior (2013),Shooter,M,PlayStation 4,Devolver Digital,Flying Wild Hog,0.11,,0.09,,0.02,2014,,
+12101,Assassin's Creed Chronicles,Action,T,PlayStation 4,Ubisoft,Climax Studios,0.11,0.02,0.05,0.02,0.01,2016,,6.1
+12178,Slime Rancher,Simulation,E10,PlayStation 4,Skybound Games,Monomi Park,0.1,0.08,,,0.02,2018,,
+12189,Pac-Man Championship Edition 2 + Arcade Game Series,Action,E,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.1,0.08,,,0.02,2017,,
+12230,Tokyo Xanadu eX+,Role-Playing,,PlayStation 4,Aksys Games,Nihon Falcom Corporation,0.1,0.05,,0.05,0.01,2017,,
+12238,Stardew Valley,Simulation,E10,PlayStation 4,505 Games,ConcernedApe,0.1,0.04,0.04,,0.02,2017,,
+12244,The Seven Deadly Sins: Knights of Britannia,Fighting,T,PlayStation 4,Bandai Namco Entertainment,Natsume Atari,0.1,0.05,0.02,0.02,0.01,2018,,
+12276,Romance of the Three Kingdoms XIII,Action,E10,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.1,0.03,,0.06,0.01,2016,,
+12312,Warriors All-Stars,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.1,0.03,,0.06,0.01,2017,,
+12315,The Elder Scrolls Online: Summerset,MMO,M,PlayStation 4,Bethesda Softworks,ZeniMax Online Studios,0.1,0.08,,,0.02,2018,,
+12329,Starlink: Battle for Atlas,Action-Adventure,E10,PlayStation 4,Ubisoft,Ubisoft Toronto,0.1,0.08,,,0.02,2018,,
+12332,Mega Man Legacy Collection 2,Action,E10,PlayStation 4,Capcom,Capcom,0.1,0.06,,0.02,0.01,2017,,
+12339,Zone of the Enders: The 2nd Runner MARS,Simulation,T,PlayStation 4,Konami,Cygames,0.1,0.05,0.01,0.03,0.01,2018,,
+12389,Final Fantasy XIV Online Complete Edition,MMO,T,PlayStation 4,Square Enix,Square Enix,0.1,0.07,,0.02,0.02,2017,,
+12391,Devil May Cry 4 Special Edition,Action,,PlayStation 4,Capcom,Capcom,0.1,0.01,,0.09,0.0,2015,,
+12392,Puyo Puyo Tetris,Puzzle,E,PlayStation 4,Sega,Sonic Team,0.1,0.05,0.03,,0.02,2017,,
+12408,NAtURAL DOCtRINE,Role-Playing,M,PlayStation 4,NIS America,Kadokawa Games,0.1,0.05,0.02,0.02,0.01,2014,,
+12414,Sudden Strike 4,Strategy,T,PlayStation 4,Kalypso Media,Kite Games,0.1,0.05,0.03,0.01,0.02,2017,,
+12447,Accel World vs. Sword Art Online: Millennium Twilight,Action,T,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.1,,0.03,0.06,0.01,2017,,
+12457,Wolfenstein The Two Pack,Shooter,M,PlayStation 4,Bethesda Softworks,MachineGames,0.1,0.08,,,0.02,2017,,
+12483,Guilty Gear Xrd REV 2,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.1,0.04,0.01,0.03,0.01,2017,,
+12534,Ultra Street Fighter IV,Fighting,,PlayStation 4,Sony Computer Entertainment,Capcom,0.1,,0.08,,0.01,2015,71.0,5.9
+12535,Let's Sing 2016,Music,T,PlayStation 4,Ravenscourt,Voxler,0.1,0.08,,,0.02,2015,,
+12550,Resident Evil 4,Action-Adventure,M,PlayStation 4,Capcom,Capcom,0.1,0.07,,0.01,0.02,2016,,
+12601,Deracine,Adventure,T,PlayStation 4,Sony Interactive Entertainment,From Software,0.1,0.07,,0.01,0.02,2018,,
+12645,Nights of Azure 2,Action,T,PlayStation 4,Tecmo Koei,Gust,0.09,0.04,,0.04,0.01,2017,,
+12646,The Technomancer,Role-Playing,M,PlayStation 4,Focus Home Interactive,Spiders,0.09,0.04,0.04,,0.02,2016,60.0,6.7
+12701,Nights of Azure,Action,T,PlayStation 4,Tecmo Koei,Gust,0.09,0.04,0.04,,0.02,2016,67.0,7.6
+12717,Taiko no Tatsujin: Drum Session!,Music,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.09,,,0.09,,2017,,
+12729,Red Faction: Guerrilla Re-Mars-tered,Shooter,,PlayStation 4,THQ Nordic,Volition,0.09,0.04,0.04,,0.02,2018,,
+12730,Nobunaga's Ambition: Sphere of Influence - Ascension,Strategy,T,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.09,0.03,,0.06,0.01,2016,,
+12749,Grand Ages: Medieval,Strategy,T,PlayStation 4,Kalypso Media,Gaming Minds Studios,0.09,,0.05,0.03,0.01,2015,64.0,7.1
+12792,Rugby League Live 4,Sports,,PlayStation 4,Tru Blu Entertainment,Big Ant Studios,0.09,,0.08,,0.01,2017,,
+12823,Toy Soldiers: War Chest,Action,T,PlayStation 4,Ubisoft,Signal Studios,0.09,0.07,,,0.02,2015,62.0,7.7
+12824,God Eater Resurrection,Action,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.09,,,0.09,,2016,70.0,7.8
+12843,Dark Souls Trilogy,Role-Playing,M,PlayStation 4,Bandai Namco Entertainment,From Software,0.09,0.07,,0.01,0.02,2018,,
+12907,Paragon,Action,T,PlayStation 4,Sony Interactive Entertainment,Epic Games,0.09,0.07,,,0.02,2016,,6.1
+12908,Borderlands 2 VR,Shooter,M,PlayStation 4,2K Games,Gearbox Software,0.09,0.07,,,0.02,2018,,
+12918,Train Sim World,Simulation,,PlayStation 4,Maximum Games,Dovetail Games,0.09,0.05,0.03,,0.02,2018,,
+12932,Summon Night 6: Lost Borders,Role-Playing,T,PlayStation 4,Gaijinworks,Media.Vision,0.09,0.03,,0.05,0.01,2017,,
+12939,Dark Rose Valkyrie,Role-Playing,T,PlayStation 4,Idea Factory International,Compile Heart,0.09,0.04,,0.04,0.01,2017,,
+12962,Duke Nukem 3D: 20th Anniversary World Tour,Shooter,M,PlayStation 4,Gearbox Software,Gearbox Software,0.09,0.07,,,0.02,2016,77.0,6.9
+12967,ATV Drift & Tricks,Racing,E,PlayStation 4,Maximum Games,Artefacts Studio,0.09,0.07,,,0.02,2017,,
+12982,Strange Brigade,Shooter,,PlayStation 4,Rebellion Developments,Rebellion Developments,0.09,0.05,0.03,,0.02,2018,,
+13004,Nickelodeon Kart Racers,Racing,E,PlayStation 4,GameMill Entertainment,Solutions 2 Go,0.09,0.07,,,0.02,2018,,
+13016,Nights of Azure,Role-Playing,T,PlayStation 4,Tecmo Koei,Gust,0.09,,,0.09,,2016,67.0,7.6
+13040,Lara Croft and the Temple of Osiris,Action,T,PlayStation 4,Square Enix,Crystal Dynamics,0.09,,0.07,,0.01,2014,74.0,6.7
+13054,Dragon's Dogma Online,Role-Playing,,PlayStation 4,Capcom,Capcom,0.09,,,0.09,,2015,,
+13121,Ghostbusters (2016),Action,E10,PlayStation 4,Activision,FireForge Games,0.08,0.07,,,0.02,2016,,
+13133,Agatha Christie's The ABC Murders,Adventure,T,PlayStation 4,Unfinished Pixel,Artefacts Studio,0.08,0.05,0.02,,0.02,2016,67.0,6.2
+13162,Shantae: Half-Genie Hero,Platform,T,PlayStation 4,Xseed Games,Way Forward Technologies,0.08,0.06,,0.01,0.01,2016,,
+13204,Earth Defense Force 4.1: The Shadow of New Despair,Shooter,M,PlayStation 4,Xseed Games,Sandlot,0.08,0.05,0.02,,0.01,2015,64.0,7.9
+13227,Spintires: MudRunner - American Wilds,Racing,E,PlayStation 4,Focus Home Interactive,Saber Interactive,0.08,0.07,,,0.02,2018,,
+13272,The Sexy Brutale,Adventure,T,PlayStation 4,Badland Games,Tequila Works,0.08,0.05,0.02,,0.01,2017,,
+13275,Legend of Kay Anniversary,Action,E10,PlayStation 4,Nordic Games,Neon Studios,0.08,0.03,0.03,,0.01,2015,62.0,6.4
+13299,Hasbro Family Fun Pack Conquest Edition,Misc,,PlayStation 4,Ubisoft,Ubisoft,0.08,0.07,,,0.02,2016,,
+13300,Loading Human,Adventure,T,PlayStation 4,Maximum Games,Untold Games,0.08,0.05,0.02,,0.01,2016,,
+13318,Shining Resonance Refrain,Role-Playing,T,PlayStation 4,Sega,Media.Vision,0.08,0.03,0.01,0.04,0.01,2018,,
+13362,Rapala Fishing Pro Series,Simulation,E,PlayStation 4,GameMill,"Concrete Software, Inc.",0.08,0.06,,,0.02,2017,,
+13420,Atelier Firis: The Alchemist and the Mysterious Journey,Role-Playing,T,PlayStation 4,Tecmo Koei,Gust,0.08,0.02,,0.05,0.01,2017,,
+13436,Gravel,Racing,,PlayStation 4,Milestone S.r.l.,Milestone S.r.l.,0.08,0.06,,,0.01,2018,,
+13481,BlazBlue: Cross Tag Battle,Fighting,T,PlayStation 4,Arc System Works,Arc System Works,0.08,0.04,,0.03,0.01,2018,,
+13486,Dead Rising,Action,,PlayStation 4,Capcom,Capcom Production Studio 1,0.08,0.04,,0.02,0.01,2016,78.0,6.6
+13510,Assetto Corsa,Racing,E,PlayStation 4,505 Games,Kunos Simulazioni,0.08,,0.06,0.01,0.01,2016,73.0,6.2
+13536,Rick & Morty Virtual Rick-Ality,Simulation,,PlayStation 4,Nighthawk Interactive,Owlchemy Labs,0.08,0.06,,,0.01,2018,,
+13571,Akiba's Beat,Action,T,PlayStation 4,Xseed Games,Acquire,0.08,0.05,,0.01,0.01,2017,,
+13575,NBA 2K Playgrounds 2,Sports,,PlayStation 4,2K Games,Saber Interactive,0.08,0.06,,,0.01,2018,,
+13580,WRC 6,Racing,E,PlayStation 4,Namco Bandai Games,Bigben Interactive,0.08,0.03,0.02,0.01,0.01,2017,,
+13614,God Wars: Future Past,Role-Playing,T,PlayStation 4,NIS America,Kadokawa Games,0.07,0.03,0.01,0.02,0.01,2017,,
+13641,Resident Evil 5,Action,M,PlayStation 4,Capcom,Capcom,0.07,0.05,,0.01,0.01,2016,,
+13650,The Banner Saga Trilogy - Bonus Edition,Strategy,,PlayStation 4,505 Games,Stoic Studio,0.07,0.06,,,0.01,2018,,
+13661,The Witch and the Hundred Knight 2,Role-Playing,RP,PlayStation 4,NIS America,Nippon Ichi Software,0.07,0.03,,0.03,0.01,2018,,
+13663,Samurai Warriors: Spirit of Sanada,Action,T,PlayStation 4,Tecmo Koei,Omega Force,0.07,0.02,,0.05,0.01,2017,,
+13670,I am Setsuna,Role-Playing,E10,PlayStation 4,Square Enix,Tokyo RPG Factory,0.07,,,0.07,,2016,,
+13681,Ride 3,Racing,E,PlayStation 4,Bandai Namco Entertainment,Milestone S.r.l.,0.07,0.03,0.03,,0.01,2018,,
+13731,Has-Been Heroes,Action,,PlayStation 4,GameTrust,Frozenbyte,0.07,0.06,,,0.01,2017,,
+13743,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,Misc,,PlayStation 4,Square Enix,Square Enix,0.07,,,0.07,,2017,,
+13757,Styx: Shards of Darkness,Action,M,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.07,0.06,,,0.01,2017,,
+13769,Dead Rising 2,Action,,PlayStation 4,Capcom,Capcom,0.07,0.04,,0.02,0.01,2016,82.0,6.6
+13782,Harvest Moon: Light of Hope,Simulation,,PlayStation 4,Natsume,Natsume,0.07,0.06,,,0.01,2018,,
+13789,The Book of Unwritten Tales 2,Adventure,T,PlayStation 4,Nordic Games,KING Art Games,0.07,,0.06,,0.01,2015,63.0,8.6
+13795,Touhou Genso Rondo: Bullet Ballet,Shooter,E10,PlayStation 4,NIS America,CUBETYPE,0.07,0.06,,,0.01,2016,55.0,4.7
+13796,The Walking Dead: A Telltale Series Collection,Adventure,,PlayStation 4,Warner Bros. Interactive Entertainment,Telltale Games,0.07,0.06,,,0.01,2017,,
+13806,The Silver Case,Visual Novel,M,PlayStation 4,NIS America,Grasshopper Manufacture,0.07,0.05,,0.01,0.01,2017,,
+13877,Hunting Simulator,Shooter,T,PlayStation 4,Bigben Interactive,Maximum Games,0.07,0.06,,,0.01,2017,,
+13901,WRC 7,Racing,E,PlayStation 4,Bigben Interactive,Kylotonn Entertainment,0.07,0.06,,,0.01,2017,,
+13914,Paw Patrol on a Roll,Platform,E,PlayStation 4,Outright Games,Outright Games,0.07,0.06,,,0.01,2018,,
+13933,Kamen Rider: Battride War Genesis,Action,,PlayStation 4,Namco Bandai Games,Unknown,0.07,,,0.07,,2016,,
+13941,Le Tour de France 2017,Simulation,,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.07,,0.06,,0.01,2017,,
+13950,City Shrouded in Shadow,Action-Adventure,,PlayStation 4,Namco Bandai Games,Granzella,0.07,,,0.07,,2017,,
+13968,SG/ZH: School Girl/Zombie Hunter,Action,M,PlayStation 4,Aksys Games,Tamsoft,0.07,0.04,,0.02,0.01,2017,,
+13974,R.B.I. Baseball 18,Sports,,PlayStation 4,MLB Advanced Media,MLB Advanced Media,0.07,0.06,,,0.01,2018,,
+13975,Broken Sword 5: The Serpent's Curse,Adventure,M,PlayStation 4,Revolution Software,Revolution Software,0.07,,0.06,,0.01,2015,72.0,7.2
+14004,Terraria,Action,T,PlayStation 4,505 Games,Re-Logic,0.07,,0.05,0.01,0.01,2014,83.0,7.9
+14029,Warhammer: The End Times - Vermintide,Action,M,PlayStation 4,Games Workshop,Fatshark,0.07,0.03,0.03,,0.01,2016,,
+14038,Disgaea 1 Complete,Role-Playing,T,PlayStation 4,NIS America,Nippon Ichi Software,0.07,0.04,,0.01,0.01,2018,,
+14060,Dragon's Crown Pro,Role-Playing,T,PlayStation 4,Atlus,Vanillaware,0.07,,0.03,0.03,0.0,2018,,
+14093,Home Sweet Home (2017),Adventure,M,PlayStation 4,Mastiff,"YGGDRAZIL GROUP CO.,LTD",0.07,0.05,,,0.01,2018,,
+14118,Batman: The Enemy Within,Adventure,M,PlayStation 4,Telltale Games,Telltale Games,0.07,0.05,,,0.01,2017,,
+14125,Hello Neighbor: Hide & Seek,Adventure,T,PlayStation 4,Gearbox Software,Dynamic Pixels,0.07,0.05,,,0.01,2018,,
+14142,Atari Flashback Classics: Volume 1,Misc,,PlayStation 4,Atari,Atari,0.07,0.05,,,0.01,2016,,
+14144,Legend of Kay Anniversary,Action,E10,PlayStation 4,Nordic Games,Nordic Games,0.07,,0.06,,0.01,2015,62.0,6.4
+14146,Mutant Football League: Dynasty Edition,Sports,M,PlayStation 4,Nighthawk Interactive,Digital Dreams,0.07,0.05,,,0.01,2018,,
+14148,Steins;Gate 0,Adventure,M,PlayStation 4,PQube,5pb. Inc.,0.07,,,0.07,,2016,81.0,8.3
+14151,Zombi,Action,M,PlayStation 4,Ubisoft,Ubisoft Montpellier,0.07,,0.04,0.01,0.01,2015,,
+14186,Risen 3: Titan Lords Enhanced Edition,Role-Playing,M,PlayStation 4,Deep Silver,Piranha Bytes,0.07,,0.06,,0.01,2015,,
+14205,Nobunaga's Ambition: Taishi,Strategy,,PlayStation 4,Koei Tecmo,Koei Tecmo Games,0.06,0.01,,0.05,0.0,2018,,
+14221,Super Bomberman R,Puzzle,E10,PlayStation 4,Konami Digital Entertainment,HexaDrive,0.06,0.03,,0.03,0.01,2018,,
+14231,Persona 5: Dancing in Starlight,Music,T,PlayStation 4,Atlus,Atlus,0.06,0.03,,0.03,0.01,2018,,
+14234,Mark McMorris Infinite Air,Sports,T,PlayStation 4,Maximum Games,HB Studios,0.06,0.05,,,0.01,2016,49.0,6.0
+14244,Dead or Alive Xtreme 3: Fortune,Sports,,PlayStation 4,Tecmo Koei,Team Ninja,0.06,,,0.06,,2016,43.0,7.8
+14276,Girls und Panzer: Dream Tank Match,Action,,PlayStation 4,Bandai Namco Games,Bandai Namco Games,0.06,,,0.06,,2018,,
+14281,Birthdays the Beginning,Misc,E,PlayStation 4,NIS America,Arc System Works,0.06,0.05,,0.0,0.01,2017,,
+14300,Rugby 18,Sports,E,PlayStation 4,Koch Media,EKO Software,0.06,0.05,,,0.01,2017,,
+14319,Golf Club 2019,Sports,,PlayStation 4,2K Games,HB Studios,0.06,0.05,,,0.01,2018,,
+14395,Sherlock Holmes: The Devil's Daughter,Adventure,T,PlayStation 4,Bigben Interactive,Bigben Interactive,0.06,0.05,,,0.01,2016,70.0,6.8
+14430,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings,Role-Playing,T,PlayStation 4,Tecmo Koei,Gust,0.06,0.03,,0.03,0.01,2018,,
+14441,MX vs. ATV Supercross Encore,Sports,E,PlayStation 4,Nordic Games,Rainbow Studios,0.06,,0.05,,0.01,2015,42.0,4.1
+14453,MX vs ATV Supercross Encore 2017 Track Edition,Racing,E,PlayStation 4,THQ Nordic,Rainbow Studios,0.06,0.05,,,0.01,2017,,
+14458,Sword Art Online: Game Director's Edition,Role-Playing,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.06,,,0.06,,2015,,
+14460,Deformers,Action,,PlayStation 4,Ready at Dawn,Ready at Dawn,0.06,0.05,,,0.01,2017,,
+14526,Nobunaga no Yabou: Souzou,Strategy,,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.06,,,0.06,,2014,,
+14533,Dragon Quest X: All in One Package,Role-Playing,,PlayStation 4,Square Enix,Square Enix,0.06,,,0.06,,2017,,
+14553,Shadows Awakening,Role-Playing,,PlayStation 4,Kalypso Media,Games Farm,0.06,0.05,,,0.01,2018,,
+14567,Yomawari: Midnight Shadows,Action,M,PlayStation 4,NIS America,Nippon Ichi Software,0.06,0.02,,0.04,0.0,2017,,
+14578,Game of Thrones: A Telltale Games Series,Adventure,M,PlayStation 4,Telltale Games,Telltale Games,0.06,0.05,,,0.01,2015,,
+14585,Atari Flashback Classics: Volume 2,Misc,E,PlayStation 4,Atari,Atari,0.06,0.05,,,0.01,2016,,
+14614,Outcast: Second Contact,Adventure,T,PlayStation 4,Maximum Games,Bigben Interactive,0.06,0.05,,,0.01,2017,,
+14684,Cartoon Network Battle Crashers,Action,E10,PlayStation 4,GameMill,Magic Pockets,0.06,0.05,,,0.01,2016,,
+14691,Handball 16,Sports,,PlayStation 4,Bigben Interactive,EKO Software,0.06,,0.05,,0.01,2015,,3.0
+14695,Extinction,Action,M,PlayStation 4,Maximum Games,Iron Galaxy,0.06,0.05,,,0.01,2018,,
+14699,Gintama Ranbu,Action,,PlayStation 4,Bandai Namco Games,Bandai Namco Games,0.06,,,0.06,,2018,,
+14710,Rugby World Cup 2015,Sports,,PlayStation 4,Big Ben Interactive,HB Studios,0.06,,0.05,,0.01,2015,25.0,1.9
+14719,Exist Archive: The Other Side of the Sky,Role-Playing,T,PlayStation 4,Aksys Games,tri-Ace,0.06,0.02,,0.03,0.0,2016,69.0,7.9
+14721,King's Quest: The Complete Collection,Adventure,E10,PlayStation 4,Activision,The Odd Gentlemen,0.06,0.05,,,0.01,2016,,
+14723,Sine Mora EX,Action,M,PlayStation 4,THQ Nordic,Digital Reality,0.06,0.03,0.01,,0.01,2017,,
+14749,Aven Colony,Strategy,E10,PlayStation 4,Sold Out,Mothership Entertainment,0.06,0.04,0.01,,0.01,2017,,
+14754,Battle Chasers: Nightwar,Role-Playing,T,PlayStation 4,THQ Nordic,Airship Syndicate,0.06,0.03,0.02,,0.01,2017,,
+14777,Atari Flashback Classics: Volume 3,Misc,,PlayStation 4,Funbox Media,Atari,0.06,0.05,,,0.01,2018,,
+14797,WRC 5: FIA World Rally Championship,Racing,E,PlayStation 4,Bigben Interactive,Kylotonn Entertainment,0.06,,0.05,,0.01,2015,,
+14828,Disaster Report 4 Plus: Summer Memories,Action-Adventure,,PlayStation 4,Granzella,Granzella,0.05,,,0.05,,2018,,
+14918,Black Mirror,Adventure,M,PlayStation 4,THQ Nordic,KING Art Games,0.05,0.04,,,0.01,2017,,
+14930,Touhou Genso Wanderer,Action,T,PlayStation 4,NIS America,AQUA STYLE,0.05,0.04,,,0.01,2017,,
+14956,Arcania: Gothic 4,Role-Playing,,PlayStation 4,Nordic Games,Spellbound Entertainment AG,0.05,0.04,,,0.01,2015,,
+14971,Carnival Games,Party,E10,PlayStation 4,2K Games,Cat Daddy Games,0.05,0.04,,,0.01,2018,,
+14977,Yakuza 3,Action-Adventure,,PlayStation 4,Sega,Sega,0.05,,,0.05,,2018,,
+14978,Hatsune Miku: Project Diva Future Tone DX,Misc,,PlayStation 4,Sega,Sega,0.05,,,0.05,,2017,,
+14981,Starblood Arena,Shooter,T,PlayStation 4,Sony Interactive Entertainment,WhiteMoon Dreams,0.05,0.04,,,0.01,2017,,
+14985,Hellblade: Senua's Sacrifice,Action-Adventure,M,PlayStation 4,505 Games,Ninja Theory,0.05,0.03,0.01,,0.01,2018,,
+14988,Bubsy: The Woolies Strike Back,Platform,E,PlayStation 4,Accolade,Black Forest Games,0.05,0.04,,,0.01,2017,,
+15031,Nitroplus Blasterz: Heroines Infinite Duel,Fighting,,PlayStation 4,Xseed Games,Examu Inc.,0.05,0.01,0.01,0.03,0.0,2016,70.0,6.9
+15034,Nobunaga's Ambition: Sphere of Influence,Strategy,T,PlayStation 4,Tecmo Koei,Koei,0.05,0.04,,,0.01,2015,80.0,8.1
+15043,The Long Dark,Simulation,T,PlayStation 4,Skybound Games,Hinterland Studio Inc.,0.05,0.04,,,0.01,2018,,
+15057,Child of Light,Role-Playing,E10,PlayStation 4,Ubisoft,Ubisoft Montreal,0.05,,0.01,0.04,0.0,2014,82.0,8.0
+15059,Phantasy Star Online 2 Episode 4: Deluxe Package,Role-Playing,,PlayStation 4,Sega,Sega,0.05,,,0.05,,2017,,
+15060,Saints Row: Gat out of Hell,Action,,PlayStation 4,Deep Silver,Volition Inc.,0.05,,0.04,,0.01,2015,64.0,5.7
+15064,Little Dragons Café,Simulation,E10,PlayStation 4,Aksys Games,Aksys Games,0.05,0.03,,0.01,0.01,2018,,
+15065,Werewolves Within,Misc,,PlayStation 4,Ubisoft,Ubisoft,0.05,0.04,,,0.01,2016,,
+15067,Demon Gaze 2,Role-Playing,,PlayStation 4,NIS America,Experience Inc.,0.05,0.04,,,0.01,2017,,
+15110,Real Farm,Simulation,E,PlayStation 4,Soedesco,Triangle Studios,0.05,0.04,,,0.01,2017,,
+15113,Worms: WMD,Strategy,E10,PlayStation 4,Team17 Digital Ltd,Team17 Digital Ltd,0.05,0.02,0.02,,0.01,2016,78.0,7.6
+15135,Syberia III,Adventure,T,PlayStation 4,Anuman,Unknown,0.05,0.04,0.0,,0.01,2016,,
+15143,Sengoku BASARA Sanada Yukimura-den,Action,,PlayStation 4,Capcom,Capcom,0.05,,,0.05,,2016,,
+15163,Scribblenauts: Showdown,Platform,E10,PlayStation 4,Warner Bros. Interactive,Shiver Games,0.05,0.04,,,0.01,2018,,
+15165,MXGP Pro,Racing,,PlayStation 4,Milestone S.r.l.,Milestone S.r.l.,0.05,0.04,,,0.01,2018,,
+15181,Sengoku Basara 4: Sumeragi,Action,,PlayStation 4,Capcom,Unknown,0.05,,,0.05,,2015,,
+15184,Sebastien Loeb Rally EVO,Racing,E,PlayStation 4,Square Enix,Milestone S.r.l,0.05,,0.04,,0.01,2016,,
+15195,Apex Construct,Action,E10,PlayStation 4,Perp Games,Fast Travel Games,0.05,0.04,,,0.01,2018,,
+15200,Fishing Sim World,Simulation,E,PlayStation 4,Dovetail Games,Dovetail Games,0.05,0.04,,,0.01,2018,,
+15228,Metal Max Xeno,Role-Playing,,PlayStation 4,NIS America,Kadokawa Games,0.05,0.02,,0.03,0.0,2018,,
+15234,Don't Starve,Adventure,T,PlayStation 4,Klei Entertainment,Klei Entertainment,0.05,0.04,,,0.01,2018,,
+15262,Dakar 18,Racing,,PlayStation 4,Deep Silver,Bigmoon Entertainment,0.05,0.03,0.01,,0.01,2018,,
+15274,ARK Park,Adventure,T,PlayStation 4,Snail Games USA,Snail Games USA,0.05,0.04,,,0.01,2018,,
+15360,Monster Jam: Crush It,Racing,,PlayStation 4,GameMill,GameMill,0.05,0.04,,,0.01,2017,,
+15367,Prison Architect,Simulation,M,PlayStation 4,Introversion Software,Introversion Software,0.05,0.02,0.02,,0.01,2016,80.0,8.0
+15432,Owlboy,Platform,,PlayStation 4,Soedesco,D-Pad Studios,0.05,0.04,,,0.01,2018,,
+15459,Assault Suit Leynos,Shooter,E10,PlayStation 4,Rising Star Games,"extreme Co.,Ltd.",0.05,0.04,,,0.01,2016,67.0,
+15476,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,Adventure,T,PlayStation 4,NIS America,Toybox Games,0.05,0.04,,,0.01,2016,,
+15484,Overcooked,Action,E,PlayStation 4,Sold Out,Ghost Town Games,0.05,0.04,,,0.01,2016,,
+15487,Ben 10 (2017),Action,,PlayStation 4,Outright Games,Torus Games,0.05,0.04,,,0.01,2017,,
+15502,Onrush,Racing,,PlayStation 4,Deep Silver,Codemasters,0.05,0.04,,,0.01,2018,,
+15505,Dead Cells,Action,T,PlayStation 4,Merge Games,Motion Twin,0.05,0.04,,,0.01,2018,,
+15526,Dead Alliance,Shooter,M,PlayStation 4,Maximum Games,IllFonic,0.04,0.04,,,0.01,2017,,
+15552,Deer Hunter Reloaded,Shooter,,PlayStation 4,GameMill Entertainment,GameMill,0.04,0.04,,,0.01,2017,,
+15559,That's You!,Party,T,PlayStation 4,Sony Interactive Entertainment,Wish Studio,0.04,0.04,,,0.01,2017,,
+15566,Raid: World War II,Shooter,M,PlayStation 4,505 Games,Lion Game Lion,0.04,0.04,,,0.01,2017,,
+15567,Megadimension Neptunia VII,Role-Playing,T,PlayStation 4,Idea Factory International,Compile Heart,0.04,,,0.04,,2016,,
+15576,Zero Escape The Nonary Games,Adventure,T,PlayStation 4,Aksys Games,Spike Chunsoft,0.04,0.03,,0.01,0.01,2017,,
+15594,Rugby Challenge 3,Sports,,PlayStation 4,Alternative Software,Wicked Witch Software,0.04,,0.04,,0.01,2016,64.0,6.8
+15604,Vikings: Wolves of Midgard,Action,M,PlayStation 4,Kalypso Media,Games Farm,0.04,0.03,0.01,,0.01,2017,,
+15621,INSIDE / LIMBO Double Pack,Platform,,PlayStation 4,505 Games,Playdead,0.04,0.04,,,0.01,2017,,
+15627,The Talos Principle,Puzzle,E10,PlayStation 4,Nighthawk Interactive,Croteam,0.04,,0.04,,0.01,2015,88.0,8.4
+15632,Megadimension Neptunia VIIR,Role-Playing,,PlayStation 4,Idea Factory International,Compile Heart,0.04,0.01,,0.03,0.0,2018,,
+15636,R.B.I. Baseball 2016,Sports,E,PlayStation 4,MLB.com,MLB.com,0.04,0.04,,,0.01,2016,,
+15648,Pure Farming 2018,Simulation,E,PlayStation 4,Techland,Ice Flames,0.04,0.02,0.01,,0.01,2018,,
+15685,Air Conflicts: Secret Wars,Simulation,T,PlayStation 4,Nighthawk Interactive,Games Farm,0.04,0.03,,,0.01,2017,,
+15695,Earthfall,Action-Adventure,,PlayStation 4,Gearbox Software,Holospark,0.04,0.03,,,0.01,2018,,
+15754,Anima - Gate of Memories,Action,,PlayStation 4,PQube,Anima Games Studio,0.04,0.01,0.02,,0.01,2017,52.0,7.9
+15794,Axiom Verge,Action,,PlayStation 4,Thomas Happ Games,Thomas Happ Games,0.04,0.03,,,0.01,2015,,
+15829,Unbox: Newbie's Adventure,Action,E,PlayStation 4,Merge Games,Prospect Games,0.04,0.03,,,0.01,2017,,
+15851,8 to Glory: The Official Game of the PBR,Sports,E,PlayStation 4,THQ Nordic,Three Gates,0.04,0.03,,,0.01,2018,,
+15888,Here They Lie,Adventure,M,PlayStation 4,Sony Interactive Entertainment,Tangentlemen,0.04,,0.03,,0.01,2016,62.0,6.5
+15898,Under Night In-Birth Exe:Latest,Fighting,T,PlayStation 4,Aksys Games,Arc System Works,0.04,0.01,,0.03,0.0,2018,,
+15908,My Riding Stables: Life with Horses,Simulation,E,PlayStation 4,TREVA Entertainment,Independent Arts Software GmbH,0.04,0.03,,,0.01,2018,,
+15922,Surviving Mars,Simulation,,PlayStation 4,Maximum Games,Haemimont Games,0.04,0.03,,,0.01,2018,,
+15931,Scribblenauts Mega Pack,Adventure,E10,PlayStation 4,Warner Bros. Interactive Entertainment,Shiver Games,0.04,0.03,,,0.01,2018,,
+15932,Aragami,Action,M,PlayStation 4,Maximum Games,Lince Works,0.04,0.03,,,0.01,2016,,
+15938,Yonder: The Cloud Catcher Chronicles,Action,,PlayStation 4,CokeM Interactive,Prideful Sloth,0.04,0.03,,,0.01,2017,,
+15943,Assassin's Creed Chronicles: China,Action-Adventure,,PlayStation 4,Ubisoft,Climax Studios,0.04,,0.03,,0.01,2015,69.0,6.4
+15948,JoJo's Bizarre Adventure: Eyes of Heaven,Fighting,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.04,,,0.04,,2016,61.0,7.4
+15971,Dungeons 3,Strategy,T,PlayStation 4,Kalypso Media,Realmforge Studios,0.04,0.03,,,0.01,2017,,
+15987,Tour de France 2014,Sports,,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.04,,0.03,,0.01,2014,53.0,5.1
+15989,Tennis World Tour,Sports,E,PlayStation 4,Bigben Interactive,Breakpoint Studio,0.04,0.03,,0.01,0.01,2018,,
+15995,Black Clover: Quartet Knights,Shooter,T,PlayStation 4,Bandai Namco Entertainment,Ilinx,0.04,0.02,,0.01,0.0,2018,,
+15998,Asterix and Obelix XXL2,Action-Adventure,E10,PlayStation 4,Microids,Microids,0.04,,0.03,,0.01,2018,,
+15999,Danganronpa Another Episode: Ultra Despair Girls,Shooter,M,PlayStation 4,NIS America,Spike Chunsoft,0.04,0.03,,0.01,0.01,2017,,
+16001,Aegis of Earth: Protonovus Assault,Action,T,PlayStation 4,Aksys Games,Acquire,0.04,0.03,0.01,,0.01,2016,57.0,7.8
+16050,Hotel Transylvania 3: Monsters Overboard,Action-Adventure,E10,PlayStation 4,Outright Games,Torus Games,0.04,0.03,,,0.01,2018,,
+16061,Just Sing,Music,E10,PlayStation 4,Ubisoft,Ubisoft,0.04,0.03,,,0.01,2016,,
+16074,Wonder Boy: The Dragon's Trap (Remake),Platform,E10,PlayStation 4,DotEmu,Lizardcube,0.04,0.03,,,0.01,2017,,
+16103,Immortal Unchained,Role-Playing,,PlayStation 4,Sold Out,Toadman Interactive,0.04,0.03,,,0.01,2018,,
+16111,Lumo,Puzzle,E10,PlayStation 4,Rising Star Games,Triple Eh?,0.04,0.03,,,0.01,2016,,
+16116,Operation Warcade,Shooter,,PlayStation 4,Perpetual,Ivanovich Games,0.04,0.03,,,0.01,2018,,
+16121,ABZU,Adventure,E,PlayStation 4,505 Games,Giant Squid Studios,0.04,0.03,,,0.01,2017,,
+16158,Persona 3: Dancing in Moonlight,Music,T,PlayStation 4,Atlus,Atlus,0.04,0.02,,0.01,0.01,2018,,
+16163,Shadow Tactics: Blades of the Shogun,Strategy,M,PlayStation 4,Kalypso Media,Mimimi Productions,0.04,0.02,0.01,,0.01,2017,,
+16168,The Persistence,Action-Adventure,M,PlayStation 4,Sony Interactive Entertainment,Firesprite,0.04,,0.03,,0.01,2018,,
+16177,Darkest Dungeon,Role-Playing,T,PlayStation 4,Red Hook Studios,Red Hook Studios,0.04,0.02,,0.01,0.01,2018,,
+16193,R.B.I. Baseball 2017,Sports,E,PlayStation 4,MLB.com,MLB.com,0.04,0.03,,,0.01,2017,,
+16204,Punch Line,Adventure,,PlayStation 4,PQube,5pb. Inc.,0.04,0.03,,,0.01,2018,,
+16219,VR Karts,Racing,,PlayStation 4,Perp Games,Unknown,0.04,0.03,,,0.01,2017,,
+16234,Omen of Sorrow,Fighting,,PlayStation 4,Soedesco,AOne Games,0.04,0.03,,,0.01,2018,,
+16239,Resident Evil: Umbrella Corps,Shooter,M,PlayStation 4,Capcom,Capcom,0.04,,,0.04,,2016,,
+16276,Marvel Pinball: Epic Collection Volume 1,Puzzle,E10,PlayStation 4,Nighthawk Interactive,Nighthawk Interactive,0.04,0.03,,,0.01,2016,,
+16284,God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,Misc,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.04,,,0.04,,2015,,
+16295,SaGa: Scarlet Grace,Role-Playing,,PlayStation 4,Square Enix,Square Enix,0.03,,,0.03,,2018,,
+16317,InFAMOUS: First Light,Action,T,PlayStation 4,Sony Computer Entertainment,Sucker Punch Productions,0.03,,0.03,,0.0,2014,,
+16321,South Park: The Stick of Truth,Role-Playing,M,PlayStation 4,Ubisoft,Obsidian Entertainment,0.03,0.03,,,0.01,2018,,
+16338,8-Bit Armies,Strategy,E10,PlayStation 4,Soedesco,Petroglyph Games,0.03,0.03,,,0.01,2018,,
+16353,The Raven Remastered,Adventure,T,PlayStation 4,THQ Nordic,KING Art Games,0.03,0.03,,,0.01,2018,,
+16395,Death Mark,Misc,M,PlayStation 4,Aksys Games,Experience Inc.,0.03,0.02,,0.01,0.0,2018,,
+16441,Raiden V,Action,E10,PlayStation 4,UFO Interactive,Moss,0.03,0.02,,0.0,0.01,2017,,
+16483,The Peanuts Movie: Snoopy's Grand Adventure,Platform,E,PlayStation 4,Activision,Behaviour Interactive,0.03,,0.03,,0.0,2015,59.0,6.6
+16491,The Dwarves,Role-Playing,,PlayStation 4,THQ Nordic,KING Art Games,0.03,0.03,,,0.01,2016,,
+16540,Dynasty Warriors: Godseekers,Strategy,T,PlayStation 4,Tecmo Koei,Omega Force,0.03,,,0.03,,2017,,
+16554,Railway Empire,Simulation,E,PlayStation 4,Kalypso Media,Gaming Minds Studios,0.03,0.02,,0.0,0.01,2018,,
+16590,Winning Post 8 2016,Simulation,,PlayStation 4,Tecmo Koei,Koei Tecmo Games,0.03,,,0.03,,2016,,
+16600,Utawarerumono: Chiriyukusha e no Komoriuta,Role-Playing,,PlayStation 4,Aqua Plus,Aqua Plus,0.03,,,0.03,,2018,,
+16657,All-Star Fruit Racing,Racing,E,PlayStation 4,PQube,3DClouds.it,0.03,0.03,,,0.01,2018,,
+16663,Let's Sing 2019,Music,,PlayStation 4,Ravenscourt,Ravenscourt,0.03,,0.03,,0.0,2018,,
+16664,Cyber Troopers: Virtual On x Toaru Majutsu no Index: Toaru Majutsu no Dennou Senki,Action,,PlayStation 4,Sega,Sega CS3,0.03,,,0.03,,2018,,
+16665,Dragon's Dogma Online: Season 2,Action,,PlayStation 4,Capcom,Unknown,0.03,,,0.03,,2016,,
+16682,Labyrinth of Refrain: Coven of Dusk,Action,M,PlayStation 4,NIS America,Nippon Ichi Software,0.03,0.01,,0.01,0.0,2018,,
+16709,Super Dungeon Bros,Action,E10,PlayStation 4,Wired Productions,React Games,0.03,0.02,,,0.01,2016,42.0,2.3
+16710,Override: Mech City Brawl,Action-Adventure,T,PlayStation 4,Modus Games,The Balance Inc,0.03,0.02,,,0.01,2018,,
+16716,Blade Arcus from Shining EX,Fighting,,PlayStation 4,Sega,Unknown,0.03,,,0.03,,2015,,
+16727,Don't Knock Twice,Adventure,,PlayStation 4,Perpetual,Wales Interactive Ltd.,0.03,0.02,,,0.01,2018,,
+16731,Troll and I,Action,T,PlayStation 4,Maximum Games,Spiral House,0.03,0.02,,,0.01,2017,,
+16732,Beast Quest,Action-Adventure,E10,PlayStation 4,Maximum Games,Torus Games,0.03,0.02,,,0.01,2018,,
+16735,Kamen Rider: Climax Fighters,Fighting,,PlayStation 4,Namco Bandai Games,Eighting,0.03,,,0.03,,2017,,
+16745,Code: Realize - Bouquet of Rainbows,Visual Novel,,PlayStation 4,Aksys Games,Idea Factory,0.03,0.02,,,0.01,2018,,
+16751,Utawarerumono Zan,Action,,PlayStation 4,Aquaplus,Tamsoft,0.03,,,0.03,,2018,,
+16786,Record of Grancrest War,Action-Adventure,,PlayStation 4,Bandai Namco Games,Bandai Namco,0.03,,,0.03,,2018,,
+16795,THE iDOLM@STER: Stella Stage,Misc,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.03,,,0.03,,2017,,
+16811,The Pillars of the Earth,Adventure,M,PlayStation 4,Kalypso Media,Daedalic Entertainment,0.03,0.02,,,0.01,2017,,
+16823,The Lost Child,Action,T,PlayStation 4,NIS America,Crim,0.03,0.01,,0.01,0.0,2018,,
+16830,Romance of the Three Kingdoms 13 with Power-Up Kit,Misc,,PlayStation 4,Tecmo Koei,Unknown,0.03,,,0.03,,2017,,
+16852,Koihime Enbu,Fighting,,PlayStation 4,Yeti,Boss Alien Ltd.,0.03,,,0.03,,2016,,
+16856,Road Rage,Racing,M,PlayStation 4,Maximum Games,Team 6 Games Studio,0.03,0.02,,,0.01,2017,,
+16874,Winning Post 8 2017,Misc,,PlayStation 4,Tecmo Koei,Unknown,0.03,,,0.03,,2017,,
+16916,Dino Dini's Kick Off Revival,Sports,,PlayStation 4,Avanquest,The Digital Lounge,0.03,,0.02,,0.0,2016,31.0,4.5
+16932,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,Misc,,PlayStation 4,Namco Bandai Games,Unknown,0.03,,,0.03,,2016,,
+16978,Tumblestone,Puzzle,E,PlayStation 4,Nighthawk Interactive,The Quantum Astrophysicists Guild,0.03,0.02,,,0.01,2016,,
+16992,Bridge Constructor Portal,Simulation,,PlayStation 4,Nighthawk Interactive,ClockStoneSoftware,0.03,0.02,,,0.01,2018,,
+16993,Blackguards 2,Strategy,M,PlayStation 4,Kalypso Media,Daedalic Entertainment,0.03,0.02,,,0.01,2017,,
+17009,Baja: Edge of Control HD,Racing,E,PlayStation 4,THQ Nordic,2XL Games,0.03,0.02,,,0.01,2017,,
+17018,Crows: Burning Edge,Action,,PlayStation 4,Namco Bandai Games,Bandai Namco Games,0.03,,,0.03,,2016,,
+17021,Geometry Wars 3: Dimensions Evolved,Action,,PlayStation 4,Activision,Unknown,0.03,0.02,,,0.01,2016,,
+17035,God of War III Remastered,Action,,PlayStation 4,Sony Computer Entertainment Europe,SCEA Santa Monica Studio,0.03,,0.02,,0.0,2015,,
+17057,We Sing (2016),Music,T,PlayStation 4,THQ Nordic,THQ Nordic,0.03,0.02,,,0.01,2016,,
+17074,Shin Hayarigami 2,Adventure,,PlayStation 4,Nippon Ichi Software,Nippon Ichi Software,0.03,,,0.03,,2016,,
+17076,The Town of Light,Adventure,,PlayStation 4,Wired Productions,LKA,0.03,0.02,,,0.01,2017,,
+17078,OlliOlli: Epic Combo Edition,Platform,T,PlayStation 4,Badland Studio,Roll7,0.03,0.02,,,0.01,2016,,
+17081,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,Fighting,T,PlayStation 4,Namco Bandai Games,CyberConnect2,0.03,,,0.03,,2017,,
+17089,This War of Mine,Action,,PlayStation 4,11 bit studios,11 bit studios,0.03,,0.02,,0.0,2016,,
+17092,Aokana: Four Rhythm Across the Blue,Visual Novel,,PlayStation 4,Sprite,Sprite,0.03,,,0.03,,2017,,
+17101,Zero Escape: Zero Time Dilemma,Adventure,M,PlayStation 4,Rising Star Games,Chime,0.03,0.02,,,0.0,2017,,
+17107,AereA,Role-Playing,E10,PlayStation 4,Soedesco,Triangle Studios,0.03,0.02,,,0.0,2017,,
+17110,Air Missions: Hind,Simulation,,PlayStation 4,Soedesco,3Division,0.03,0.02,,,0.0,2018,,
+17143,Root Letter,Visual Novel,M,PlayStation 4,PQube,Kadokawa Games,0.03,,,0.03,,2016,69.0,7.5
+17158,Agony,Action-Adventure,,PlayStation 4,Maximum Games,Madmind Studio,0.03,0.02,,,0.0,2018,,
+17166,Cladun Returns: This Is Sengoku!,Action,E10,PlayStation 4,NIS America,Nippon Ichi Software,0.03,0.02,,,0.0,2017,,
+17171,Legendary Fishing,Sports,E,PlayStation 4,Ubisoft,Ubisoft,0.03,0.02,,,0.0,2018,,
+17181,The Girl and the Robot,Misc,,PlayStation 4,Soedesco,Unknown,0.03,0.02,,,0.0,2017,,
+17185,The Legend of Heroes: Sen no Kiseki: Kai -Thors Military Academy 1204-,Role-Playing,,PlayStation 4,Nihon Falcom Corporation,Nihon Falcom Corporation,0.03,,,0.03,,2018,,
+17190,Monster Boy and the Cursed Kingdom,Platform,E10,PlayStation 4,FDG Entertainment,Game Atelier,0.03,0.02,,,0.0,2018,,
+17192,Past Cure,Action,M,PlayStation 4,Phantom 8 Studio,Phantom 8 Studio,0.03,0.02,,,0.0,2018,,
+17217,Omega Quintet,Role-Playing,T,PlayStation 4,Compile Heart,Compile Heart,0.03,,0.0,0.02,0.0,2015,58.0,7.1
+17228,Mary Skelter: Nightmares 2,Role-Playing,,PlayStation 4,Compile Heart,Compile Heart,0.03,,,0.03,,2018,,
+17242,Touhou Kobuto V: Burst Battle,Shooter,T,PlayStation 4,NIS America,CUBETYPE,0.03,0.02,,,0.0,2017,,
+17249,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,Action,,PlayStation 4,Namco Bandai Games,Bandai Namco Games,0.02,,,0.02,,2016,,
+17254,Rugby League Live 3,Sports,,PlayStation 4,Tru Blu Entertainment,Big Ant Studios,0.02,,0.02,,0.0,2015,,7.6
+17262,Omega Labyrinth Z,Role-Playing,,PlayStation 4,D3Publisher,Unknown,0.02,,,0.02,,2017,,
+17293,Lost Sphear,Role-Playing,E10,PlayStation 4,Square Enix,Tokyo RPG Factory,0.02,,,0.02,,2018,,
+17300,Rad Rodgers,Platform,,PlayStation 4,THQ Nordic,3D Realms,0.02,0.02,,,0.0,2018,,
+17321,SUPERBEAT: XONiC,Music,T,PlayStation 4,PM Studios,Nurijoy,0.02,0.02,,,0.0,2017,,
+17328,Republique,Action-Adventure,M,PlayStation 4,GungHo Online Entertainment,Camouflaj,0.02,,0.01,0.01,0.0,2016,72.0,5.8
+17330,Bullet Girls: Phantasia,Action,,PlayStation 4,Experience Inc.,Shade,0.02,,,0.02,,2018,,
+17347,Redout,Racing,E,PlayStation 4,505 Games,Nicalis,0.02,0.02,,,0.0,2017,,
+17348,Super Stardust Ultra VR,Shooter,,PlayStation 4,Sony Interactive Entertainment,d3t Ltd,0.02,,0.02,,0.0,2016,66.0,6.2
+17378,Resident Evil: Value Pack,Action-Adventure,,PlayStation 4,Capcom,Capcom,0.02,,,0.02,,2016,,
+17379,Trailblazers,Racing,E,PlayStation 4,Rising Star Games,Supergonk,0.02,0.02,,,0.0,2018,,
+17382,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,Action,,PlayStation 4,Namco Bandai Games,Unknown,0.02,,,0.02,,2016,,
+17383,PaRappa the Rapper Remastered,Music,E,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.02,,,0.02,,2017,,
+17400,Earth's Dawn,Action,,PlayStation 4,Rising Star Games,Unknown,0.02,0.02,,,0.0,2016,,
+17404,"Warhammer 40,000: Deathwatch",Action,T,PlayStation 4,Hoplite Research,Rodeo Games,0.02,0.02,,,0.0,2018,,
+17455,Blade Strangers,Fighting,T,PlayStation 4,Nicalis,Studio Saizensen,0.02,0.02,,,0.0,2018,,
+17457,"Warhammer 40,000: Inquisitor - Martyr",Action,M,PlayStation 4,Neocore Games,Neocore Games,0.02,0.02,,,0.0,2018,,
+17474,Big Buck Hunter Arcade,Shooter,T,PlayStation 4,GameMill Entertainment,GameMill Entertainment,0.02,0.02,,,0.0,2017,,
+17517,Space Hulk Tactics,Strategy,,PlayStation 4,Focus Home Interactive,Cyanide,0.02,0.02,,,0.0,2018,,
+17576,428: Shibuya Scramble,Visual Novel,T,PlayStation 4,Spike Chunsoft,Abstraction Games,0.02,0.01,,0.01,0.0,2018,,
+17580,Dungeons 2,Role-Playing,T,PlayStation 4,Kalypso Media,Realmforge Studios,0.02,0.02,,,0.0,2016,61.0,7.9
+17652,Flipping Death,Platform,,PlayStation 4,Rising Star,Zoink Games,0.02,0.02,,,0.0,2018,,
+17654,Tricky Towers,Puzzle,E,PlayStation 4,Soedesco,WeirdBeard,0.02,0.02,,,0.0,2017,,
+17656,This Is the Police 2,Strategy,M,PlayStation 4,THQ Nordic,Weappy Studio,0.02,0.02,,,0.0,2018,,
+17682,No Heroes Allowed! VR,Strategy,,PlayStation 4,Sony Interactive Entertainment,Acquire,0.02,,,0.02,,2017,,
+17734,Titan Quest,Action,T,PlayStation 4,THQ Nordic,Iron Lore Entertainment,0.02,0.02,,,0.0,2018,,
+17745,Border Break,Action-Adventure,,PlayStation 4,Sega,Sega,0.02,,,0.02,,2018,,
+17756,ArmaGallant: Decks of Destiny,Strategy,E10,PlayStation 4,Maximum Games,RockNanoGlobal,0.02,0.02,,,0.0,2017,,
+17795,Gravity Rush Remastered,Action-Adventure,,PlayStation 4,Sony Computer Entertainment Europe,Bluepoint Games,0.02,,0.02,,0.0,2016,80.0,8.2
+17805,Carmageddon: Max Damage,Action,,PlayStation 4,Stainless Games,Stainless Games,0.02,0.02,,,0.0,2016,51.0,5.5
+17835,Armello,Strategy,E10,PlayStation 4,League of Geeks,League of Geeks,0.02,0.02,,,0.0,2018,,
+17837,Valthirian Arc: Hero School Story,Role-Playing,,PlayStation 4,PQube,Agate Studio,0.02,0.02,,,0.0,2018,,
+17848,Shaq-Fu: A Legend Reborn,Action,T,PlayStation 4,Wired Productions,Big Deez Productions,0.02,0.02,,,0.0,2018,,
+17867,Patapon Remastered,Music,E,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.02,,,0.02,,2017,,
+17873,Monster Hunter Frontier Z: Beginner's Package,Action,,PlayStation 4,Capcom,Unknown,0.02,,,0.02,,2016,,
+17881,Professional Farmer 2016,Action,,PlayStation 4,Namco Bandai Games,Unknown,0.02,,0.02,,0.0,2015,,
+17910,Natsuiro High School: Seishun Hakusho,Action,,PlayStation 4,D3Publisher,Unknown,0.02,,,0.02,,2015,,
+17916,The Inner World: The Last Wind Monk,Puzzle,E10,PlayStation 4,Kalypso Media,Studio Fizbin,0.02,0.02,,,0.0,2017,,
+17925,SteamWorld Collection,Misc,E10,PlayStation 4,Rising Star Games,Image & Form Games,0.02,0.02,,,0.0,2016,,
+17939,Winning Post 8 2018,Sports,,PlayStation 4,Koei Tecmo,Koei Tecmo Games,0.02,,,0.02,,2018,,
+17957,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,Visual Novel,,PlayStation 4,5pb,MAGES,0.02,,,0.02,,2017,,
+17965,God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6,Misc,,PlayStation 4,Namco Bandai Games,Bandai Namco Games,0.02,,,0.02,,2016,,
+17988,Dragon Quest X: 5000-nen no Harukanaru Kokyou e Online,Role-Playing,,PlayStation 4,Square Enix,Square Enix,0.02,,,0.02,,2017,,
+17996,Crayola Scoot,Sports,E,PlayStation 4,Outright Games,Outright Games,0.02,0.01,,,0.0,2018,,
+17999,Genkai Tokki: Castle Panzers,Role-Playing,,PlayStation 4,Compile Heart,Compile Heart,0.02,,,0.02,,2017,,
+18023,Adventure Time: Pirates of the Enchiridion,Adventure,E10,PlayStation 4,Outright Games,Outright Games,0.02,0.01,,,0.0,2018,,
+18064,SteamWorld Dig 2,Platform,E10,PlayStation 4,Rising Star Games,Image & Form Games,0.02,0.01,,,0.0,2018,,
+18112,Skullgirls: 2nd Encore,Fighting,,PlayStation 4,Arc System Works,Lab Zero Games,0.02,,,0.02,,2016,,
+18114,This Is The Police,Simulation,M,PlayStation 4,THQ Nordic,Weappy Studio,0.02,0.01,,,0.0,2017,,
+18132,Rabbids Invasion: The Interactive TV Show,Misc,E10,PlayStation 4,Ubisoft,Ubisoft Paris,0.02,0.0,0.01,,0.0,2014,,
+18152,Full Metal Panic! Fight: Who Dares Wins,Fighting,,PlayStation 4,Bandai Namco Entertainment,Bandai Namco Games,0.02,,,0.02,,2018,,
+18156,FlatOut 4: Total Insanity,Racing,T,PlayStation 4,Unfinished Pixel,Kylotonn Entertainment,0.02,0.01,,,0.0,2017,,
+18186,A-Train Exp.,Simulation,,PlayStation 4,ArtDink,ArtDink,0.02,,,0.02,,2017,,
+18210,Chaos;Child,Visual Novel,M,PlayStation 4,PQube,5pb. Inc.,0.02,,,0.02,,2017,,
+18215,Project Highrise: Architect's Edition,Simulation,E10,PlayStation 4,Kalypso Media,SomaSim,0.02,0.01,,,0.0,2018,,
+18223,Touhou Shinpiroku ~ Urban Legend in Limbo,Fighting,,PlayStation 4,Mediascape,Twilight Frontier,0.02,,,0.02,,2016,,
+18255,Rogue Trooper Redux,Shooter,T,PlayStation 4,Rebellion,TickTock Games,0.02,0.01,,,0.0,2017,,
+18328,Touhou Genso Wanderer Reloaded,Role-Playing,T,PlayStation 4,NIS America,AQUA STYLE,0.02,0.01,,,0.0,2018,,
+18337,Tour de France 2018,Simulation,,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.02,,0.01,,0.0,2018,,
+18379,Space Hulk: Deathwing,Shooter,M,PlayStation 4,Focus Home Interactive,Cyanide Studio,0.02,,0.01,,0.0,2017,,
+18395,Pharaonic,Action,M,PlayStation 4,Soedesco,Milkstone Studios,0.02,0.01,,,0.0,2017,,
+18427,White Day: A Labyrinth Named School (2017),Action,T,PlayStation 4,PQube,ROIGAMES Inc.,0.02,,0.01,0.01,0.0,2017,,
+18441,SNK Heroines Tag Team Frenzy,Fighting,T,PlayStation 4,NIS America,SNK Corporation,0.02,,,0.02,,2018,,
+18489,Dragon Quest X: All in One Package Ver.1-4,MMO,,PlayStation 4,Square Enix,Square Enix,0.01,,,0.01,,2018,,
+18507,GRIP: Combat Racing,Racing,E10,PlayStation 4,U&I Entertainment,Caged Element,0.01,0.01,,,0.0,2018,,
+18555,Torment: Tides of Numenera,Role-Playing,M,PlayStation 4,Techland,InXile Entertainment,0.01,0.01,,,0.0,2017,,
+18565,Summer Lesson: Miyamoto Hikari Collection,Adventure,,PlayStation 4,Namco Bandai Games,Namco Bandai Games,0.01,,,0.01,,2017,,
+18570,Raven's Cry,Role-Playing,M,PlayStation 4,TopWare Interactive,Reality Pump Studios,0.01,,0.01,,0.0,2015,,
+18585,Little Witch Academia: Chamber of Time,Role-Playing,,PlayStation 4,Bandai Namco Entertainment,A+ Games,0.01,,,0.01,,2017,,
+18612,New Game! The Challenge Stage!,Adventure,,PlayStation 4,5pb,5pb. Inc.,0.01,,,0.01,,2017,,
+18615,God Wars: Nihon Shinwa Taisen,Role-Playing,,PlayStation 4,Kadokawa Games,Kadokawa Games,0.01,,,0.01,,2018,,
+18635,Yoku's Island Express,Action,E10,PlayStation 4,Villa Gorilla,Villa Gorilla,0.01,0.01,,,0.0,2018,,
+18639,Mega Man X Legacy Collection 1,Platform,,PlayStation 4,Capcom,Capcom,0.01,,,0.01,,2018,,
+18668,Hakoniwa Company Works,Strategy,,PlayStation 4,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,,2017,,
+18717,DJ Max Respect,Misc,,PlayStation 4,Arc System Works,DJMAX Sound Lab Team,0.01,,,0.01,,2017,,
+18723,Far Cry 3: Classic Edition,Action-Adventure,M,PlayStation 4,Ubisoft,Ubisoft Montreal,0.01,,,0.01,,2018,,
+18753,Flashback,Platform,E10,PlayStation 4,Microids,Paul Cuisset,0.01,0.01,,,0.0,2018,,
+18764,Jake Hunter Detective Story: Prism of Eyes,Adventure,,PlayStation 4,Arc System Works,Arc System Works,0.01,,,0.01,,2018,,
+18779,Tempest 4000,Shooter,,PlayStation 4,Atari,Llamasoft,0.01,0.01,,,0.0,2018,,
+18788,Atelier: The Alchemist of Arland 1-2-3 DX,Role-Playing,,PlayStation 4,Koei Tecmo,Gust,0.01,,,0.01,,2018,,
+18789,Battle Worlds: Kronos,Strategy,E10,PlayStation 4,Nordic Games,KING Art Games,0.01,0.01,,,0.0,2016,,
+18802,Dragon's Dogma Online: Season 3,Role-Playing,,PlayStation 4,Capcom,Capcom,0.01,,,0.01,,2017,,
+18831,Capcom Beat 'Em Up Bundle,Fighting,T,PlayStation 4,Capcom,Capcom,0.01,,,0.01,,2018,,
+18905,Moonlighter,Role-Playing,E10,PlayStation 4,Merge Games,Digital Sun,0.01,0.01,,,0.0,2018,,
+18920,Occultic;Nine,Adventure,,PlayStation 4,5pb,5pb. Inc.,0.01,,,0.01,,2017,,
+18955,Wordhunters,Misc,,PlayStation 4,Wired Productions,thumbfood Ltd.,0.01,0.01,,,0.0,2018,,
+18965,Doukoku Soshite... Doukoku Soshite...,Visual Novel,,PlayStation 4,El Dia,El Dia,0.01,,,0.01,,2018,,
+18979,Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,Adventure,,PlayStation 4,5pb,5pb. Inc.,0.01,,,0.01,,2017,,
+19002,Battle Garegga Rev.2016,Strategy,,PlayStation 4,M2,Arc System Works,0.01,,,0.01,,2016,,
+19020,Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set,Adventure,,PlayStation 4,5pb,5pb. Inc.,0.01,,,0.01,,2017,,
+19022,Mothergunship,Shooter,,PlayStation 4,Sold Out,Grip Games,0.01,0.01,,,0.0,2018,,
+19034,Farming 2017 - The Simulation,Simulation,,PlayStation 4,UIG Entertainment,UIG Entertainment,0.01,,0.01,,0.0,2016,,
+19050,Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,Adventure,,PlayStation 4,5pb,MAGES,0.01,,,0.01,,2017,,
+19074,Gal Gun 2,Simulation,M,PlayStation 4,PQube,Inti Creates,0.01,,,0.01,,2018,,
+19086,Gungrave VR,Shooter,RP,PlayStation 4,Xseed Games,IGGYMOB,0.01,0.01,,,0.0,2018,,
+19158,Zombie Vikings,Action,T,PlayStation 4,Rising Star Games,Zoink Games,0.01,,0.01,,0.0,2016,,
+19162,ATV Renegades,Racing,E,PlayStation 4,Nighthawk Interactive,Nighthawk Interactive,0.01,0.01,,,0.0,2017,,
+19164,Ziggurat,Shooter,T,PlayStation 4,Soedesco,Milkstone Studios,0.01,,0.01,,0.0,2016,,
+19176,Hyperdimension Neptunia Re;Birth1 Plus,Role-Playing,,PlayStation 4,Compile Heart,Idea Factory,0.01,,,0.01,,2018,,
+19244,Lapis x Labyrinth,Role-Playing,,PlayStation 4,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,,2018,,
+19252,Jagged Alliance: Rage!,Strategy,M,PlayStation 4,THQ Nordic,Cliffhanger Productions,0.01,0.01,,,0.0,2018,,
+19267,Chaos;Child: Love Chu Chu!!,Visual Novel,,PlayStation 4,5pb,5pb. Inc.,0.01,,,0.01,,2017,,
+19313,V-Rally 4,Racing,E,PlayStation 4,Bigben Interactive,Kylotonn,0.01,0.01,,,0.0,2018,,
+19325,Moto Racer 4,Racing,,PlayStation 4,Microids,Microids,0.01,0.01,,,0.0,2017,,
+19333,Million Arthur: Arcana Blood,Fighting,,PlayStation 4,Square Enix,Square Enix,0.01,,,0.01,,2018,,
+19334,LocoRoco Remastered,Platform,E,PlayStation 4,Sony Interactive Entertainment,SIE Japan Studio,0.01,,,0.01,,2017,,
+19335,Lock's Quest,Strategy,E10,PlayStation 4,THQ Nordic,5TH Cell,0.01,0.01,,,0.0,2017,,
+19396,Gal Gun: Double Peace,Action,M,PlayStation 4,PQube,Inti Creates,0.01,,,0.01,,2016,,
+19409,Ketsui Deathtiny: Kizuna Jigoku Tachi,Action,,PlayStation 4,M2,M2,0.01,,,0.01,,2018,,
+19427,Yuuna and the Haunted Hot Springs: Steam Dungeon,Role-Playing,,PlayStation 4,FuRyu Corporation,FuRyu,0.01,,,0.01,,2018,,
+19469,Woodcutter Simulator 2016,Action,,PlayStation 4,Namco Bandai Games,Unknown,0.01,,0.01,,0.0,2015,,
+19486,Akiba's Trip 2+A,Adventure,M,PlayStation 4,Acquire,Acquire,0.01,,,0.01,,2017,,
+19503,Date A Live: Rio Reincarnation HD,Adventure,,PlayStation 4,Compile Heart,Compile Heart,0.01,,,0.01,,2017,,
+19524,Undertale,Role-Playing,,PlayStation 4,Toby Fox,Toby Fox,0.01,,,0.01,,2017,,
+19544,Maitetsu: Pure Station,Visual Novel,,PlayStation 4,Yeti,Lose,0.01,,,0.01,,2018,,
+19567,Just Deal With It,Party,,PlayStation 4,Wired Productions,Wired Productions,0.01,0.01,,,0.0,2018,,
+19573,Memories Off: Innocent File,Visual Novel,,PlayStation 4,MAGES,5pb. Games,0.01,,,0.01,,2018,,
+19612,Valhalla Hills: Definitive Edition,Strategy,T,PlayStation 4,Kalypso Media,Daedalic Entertainment,0.01,0.01,,,0.0,2017,,
+19698,One Piece: Unlimited World Red Deluxe Edition,Action,T,PlayStation 4,Namco Bandai Games,Ganbarion,0.01,,,0.01,,2017,,
+19721,Hyper Light Drifter,Role-Playing,,PlayStation 4,Rebellion Games,Rebellion Games,0.01,,,0.01,,2016,,
+19724,Closed Nightmare,Misc,,PlayStation 4,Nippon Ichi Software,Nippon Ichi Software,0.01,,,0.01,,2018,,
+19726,Teslagrad,Platform,,PlayStation 4,Rain Games,Rain Games,0.01,,0.01,,0.0,2014,,
+19731,Kunio-kun: The World Classics Collection,Misc,,PlayStation 4,Arc System Works,"Million Co., Ltd.",0.01,,,0.01,,2018,,
+19757,Darius Burst: Chronicle Saviours,Action,,PlayStation 4,Kadokawa Games,Pyramid,0.01,,,0.01,,2017,,
+19775,The Escapists: The Walking Dead,Action,,PlayStation 4,Team17 Software,Team17 Software,0.01,,0.0,,0.0,2016,,
+19794,Saiaku Naru Saiyaku Ningen ni Sasagu,Visual Novel,,PlayStation 4,Kemco,Kemco,0.01,,,0.01,,2018,,
+19814,Mega Man X Legacy Collection 2,Platform,,PlayStation 4,Capcom,Capcom,0.01,,,0.01,,2018,,
+19825,Happy Manager: Shiawase Zhuang no Kanrinin San,Simulation,,PlayStation 4,D3 Publisher,D3 Publisher,0.01,,,0.01,,2018,,
+19846,Super Meat Boy,Platform,,PlayStation 4,Team Meat,Team Meat,0.01,,0.0,,0.0,2016,,
