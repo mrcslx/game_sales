@@ -74,7 +74,7 @@ with pc_data_container:
 
     pc_genre_list = pc['genre'].unique().tolist()
 
-    st.write('Using the following plot you will be able to view publisher recommendations for any game genre.')
+    st.write('Using the following plot you will be able to view publisher recommendations for any PC game genre.')
     s_pc_genre = st.selectbox('Please select a game genre:', pc_genre_list, key='genre')
 
     genre_pc = pc.loc[pc["genre"] == s_pc_genre]
@@ -117,6 +117,26 @@ with ps4_data_container:
     fig2.update_layout(width=1100, height=600)
 
     st.write(fig2)
+
+    ps4_genre_list = ps4['genre'].unique().tolist()
+
+    st.write('Using the following plot you will be able to view publisher recommendations for any PS4 game genre.')
+    s_ps4_genre = st.selectbox('Please select a game genre:', ps4_genre_list, key='genre')
+
+    genre_ps4 = ps4.loc[pc["genre"] == s_ps4_genre]
+
+    genre_ps4_mean_sales = genre_ps4.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
+
+    fig5 = px.bar(genre_ps4_mean_sales, x="publisher", y="mean global sales",
+             labels={
+                 "publisher": "Publisher",
+                 "mean global sales": "Mean Global Sales (millions)"
+             },
+             title="Top Five Publishers by Mean Global Sales for Chosen Game Genre (PS4)")
+    fig5.update_xaxes(tickangle=45)
+    fig5.update_layout(width=1100, height=600)
+
+    st.write(fig5)
 
 
 # Xbox container contents
