@@ -81,7 +81,7 @@ with pc_data_container:
                  "publisher": "Publisher",
                  "mean global sales": "Mean Global Sales (millions)"
              },
-             title="Mean Global Sales by Publisher - Simulation Games (PC)")
+             title="Mean Global Sales by Publisher and Chosen Game Genre (PC)")
     fig4.update_xaxes(tickangle=45)
     fig4.update_layout(width=1100, height=600)
 
