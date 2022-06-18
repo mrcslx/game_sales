@@ -50,6 +50,8 @@ with header_container:
 # PC container contents
 with pc_data_container:
 
+    st.write("#")
+
     st.subheader("PC Games")
 
     pc = pd.read_csv('sales-pc.csv')
@@ -94,6 +96,8 @@ with pc_data_container:
 # PS4 container contents
 with ps4_data_container:
 
+    st.write("#")
+
     st.subheader("PlayStation 4 Games")
 
     ps4 = pd.read_csv('sales-ps4.csv')
@@ -117,6 +121,8 @@ with ps4_data_container:
 
 # Xbox container contents
 with xbox_data_container:
+
+    st.write("#")
 
     st.subheader("Xbox One Games")
 
