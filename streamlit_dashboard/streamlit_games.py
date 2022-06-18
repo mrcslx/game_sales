@@ -123,7 +123,7 @@ with ps4_data_container:
     st.write('Using the following plot you will be able to view publisher recommendations for any PS4 game genre.')
     s_ps4_genre = st.selectbox('Please select a game genre:', ps4_genre_list, key='genre')
 
-    genre_ps4 = ps4.loc[pc["genre"] == s_ps4_genre]
+    genre_ps4 = ps4.loc[ps4["genre"] == s_ps4_genre]
 
     genre_ps4_mean_sales = genre_ps4.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
 
@@ -163,3 +163,23 @@ with xbox_data_container:
     fig3.update_layout(width=1100, height=600)
 
     st.write(fig3)
+
+    xbox_genre_list = xbox['genre'].unique().tolist()
+
+    st.write('Using the following plot you will be able to view publisher recommendations for any Xbox One game genre.')
+    s_xbox_genre = st.selectbox('Please select a game genre:', xbox_genre_list, key='genre')
+
+    genre_xbox = xbox.loc[xbox["genre"] == s_xbox_genre]
+
+    genre_xbox_mean_sales = genre_xbox.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
+
+    fig6 = px.bar(genre_xbox_mean_sales, x="publisher", y="mean global sales",
+             labels={
+                 "publisher": "Publisher",
+                 "mean global sales": "Mean Global Sales (millions)"
+             },
+             title="Top Five Publishers by Mean Global Sales for Chosen Game Genre (Xbox One)")
+    fig6.update_xaxes(tickangle=45)
+    fig6.update_layout(width=1100, height=600)
+
+    st.write(fig6)
