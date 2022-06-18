@@ -70,7 +70,8 @@ with pc_data_container:
 
     pc_genre_list = pc['genre'].unique().tolist()
 
-    s_pc_genre = st.selectbox('Which game genre would you like to explore?', pc_genre_list, key='genre')
+    st.write('Using the following plot you will be able to view publisher recommendations for any game genre.')
+    s_pc_genre = st.selectbox('Please select a game genre:', pc_genre_list, key='genre')
 
     genre_pc = pc.loc[pc["genre"] == s_pc_genre]
 
@@ -81,7 +82,7 @@ with pc_data_container:
                  "publisher": "Publisher",
                  "mean global sales": "Mean Global Sales (millions)"
              },
-             title="Mean Global Sales by Publisher and Chosen Game Genre (PC)")
+             title="Top Five Publishers by Mean Global Sales for Chosen Game Genre (PC)")
     fig4.update_xaxes(tickangle=45)
     fig4.update_layout(width=1100, height=600)
 
