@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an analysis of video game sales data from VGChartz. The entire report was created using Python and Jupyter notebooks. This was my final project undertaken as a part of CodeClan's Professional Data Analysis course.
+This repository contains an analysis of video game sales data from VGChartz. The entire report was created using Python and Jupyter notebooks. This was my final project undertaken as part of CodeClan's Professional Data Analysis course.
 
 [View Report](https://mrcslx.github.io/game_sales_report.html)
 
