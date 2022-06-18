@@ -43,8 +43,8 @@ xbox_data_container = st.container()
 with header_container:
 
 	st.title("Explore Global Game Sales by Platform and Genre")
-	st.write("The three plots below will allow you to view global sales by year and game genre for the following platforms: PC, PS4 and Xbox One")
-	st.write("Note: The plots are interactive, click/double-click to select specific game genres")
+	st.write("The plots below will allow you to view global sales by year and game genre for the following platforms: PC, PS4 and Xbox One. You will also be able to view publisher recommendations based on your chosen game genre.")
+	st.write("Note: The plots are interactive, click to remove or add game genres as needed within the plot legend, or double-click to restrict visualisation to a single genre.")
 
 
 # PC container contents
