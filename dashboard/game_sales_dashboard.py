@@ -54,7 +54,7 @@ with pc_data_container:
 
     st.subheader("PC Games")
 
-    pc = pd.read_csv('sales-pc.csv')
+    pc = pd.read_csv('dashboard/sales-pc.csv')
 
     sales_year_genre_pc = pc.groupby(['year', 'genre']).agg(
     sales=pd.NamedAgg(column='global_sales', aggfunc=sum)
@@ -100,7 +100,7 @@ with ps4_data_container:
 
     st.subheader("PlayStation 4 Games")
 
-    ps4 = pd.read_csv('sales-ps4.csv')
+    ps4 = pd.read_csv('dashboard/sales-ps4.csv')
 
     sales_year_genre_ps4 = ps4.groupby(['year', 'genre']).agg(
     sales=pd.NamedAgg(column='global_sales', aggfunc=sum)
@@ -146,7 +146,7 @@ with xbox_data_container:
 
     st.subheader("Xbox One Games")
 
-    xbox = pd.read_csv('sales-xbox.csv')
+    xbox = pd.read_csv('dashboard/sales-xbox.csv')
 
     sales_year_genre_xbox = xbox.groupby(['year', 'genre']).agg(
     sales=pd.NamedAgg(column='global_sales', aggfunc=sum)
