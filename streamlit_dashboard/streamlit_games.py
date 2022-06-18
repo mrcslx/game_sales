@@ -72,11 +72,11 @@ with pc_data_container:
 
     s_pc_genre = st.selectbox('Which game genre would you like to explore?', pc_genre_list, key='genre')
 
-    sim_pc = pc.loc[pc["genre"] == "Simulation"]
+    genre_pc = pc.loc[pc["genre"] == s_pc_genre]
 
-    sim_pc_mean_sales = sim_pc.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
+    genre_pc_mean_sales = genre_pc.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
 
-    fig4 = px.bar(sim_pc_mean_sales, x="publisher", y="mean global sales",
+    fig4 = px.bar(genre_pc_mean_sales, x="publisher", y="mean global sales",
              labels={
                  "publisher": "Publisher",
                  "mean global sales": "Mean Global Sales (millions)"
