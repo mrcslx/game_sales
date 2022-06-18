@@ -68,6 +68,21 @@ with pc_data_container:
 
     st.write(fig1)
 
+    sim_pc = pc.loc[pc["genre"] == "Simulation"]
+
+    sim_pc_mean_sales = sim_pc.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
+
+    fig4 = px.bar(sim_pc_mean_sales, x="publisher", y="mean global sales",
+             labels={
+                 "publisher": "Publisher",
+                 "mean global sales": "Mean Global Sales (millions)"
+             },
+             title="Mean Global Sales by Publisher - Simulation Games (PC)")
+    fig4.update_xaxes(tickangle=45)
+    fig4.update_layout(width=1100, height=600)
+
+    st.write(fig4)
+
 
 # PS4 container contents
 with ps4_data_container:
