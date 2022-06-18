@@ -68,6 +68,10 @@ with pc_data_container:
 
     st.write(fig1)
 
+    pc_genre_list = pc['genre'].unique().tolist()
+
+    s_pc_genre = st.selectbox('Which game genre would you like to explore?', pc_genre_list, key='genre')
+
     sim_pc = pc.loc[pc["genre"] == "Simulation"]
 
     sim_pc_mean_sales = sim_pc.groupby("publisher")["global_sales"].mean().sort_values(ascending = False).head(5).reset_index(name = "mean global sales")
