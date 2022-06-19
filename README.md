@@ -30,7 +30,7 @@ The following steps were followed to complete this project:
 
 The following packages were used throughout the project:
 - Data cleaning and wrangling: `Pandas`, `Pyjanitor`
-- Data modelling: `Pandas Profiling`, `Scikit learn`, `Scipy`, `Statsmodels`
+- Data modelling: `Pandas Profiling`, `Scikit Learn`, `Scipy`, `Statsmodels`
 - Data visualisations: `Plotly Express`
 - Dashboard: `Streamlit`
 
