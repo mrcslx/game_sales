@@ -2,13 +2,19 @@
 
 ## Overview
 
-This repository contains an analysis of video game sales data from VGChartz. The entire report was created using Python and Jupyter notebooks. This was my final project undertaken as part of CodeClan's Professional Data Analysis course.
+This repository contains an analysis of video game sales data from VGChartz. The entire report was created using Python and Jupyter notebooks. This was my final project undertaken as part of CodeClan's Professional Data Analysis course. It comprises a main report as well as a dashboard designed to complement it.
 
 [View Report](https://mrcslx.github.io/game_sales_report.html)
 
 [View Dashboard](https://share.streamlit.io/mrcslx/game_sales/main/dashboard/game_sales_dashboard.py)
 
 [View Presentation Slides](https://mrcslx.github.io/game_sales_slides.pdf)
+
+## Brief
+
+Donkey Games are planning their next release and need help deciding what kind of game to develop.
+- What types of games typically perform well in terms of sales?
+- Which direction should they take their company?
 
 ## Methodology
 
