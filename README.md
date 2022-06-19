@@ -6,7 +6,7 @@ This repository contains an analysis of video game sales data from VGChartz. The
 
 [View Report](https://mrcslx.github.io/game_sales_report.html)
 
-[View Dashboard](https://share.streamlit.io/mrcslx/game_sales/main/dashboard/game_sales_dashboard.py)
+[Launch Dashboard](https://share.streamlit.io/mrcslx/game_sales/main/dashboard/game_sales_dashboard.py)
 
 [View Presentation Slides](https://mrcslx.github.io/game_sales_slides.pdf)
 
