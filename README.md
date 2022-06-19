@@ -1,4 +1,4 @@
-# Donkey Games -- Game Sales Report
+![](images/game_sales_report.png)
 
 ## Overview
 
